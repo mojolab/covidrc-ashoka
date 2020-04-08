@@ -113,7 +113,7 @@ export function CityDetailView(props) {
 
                                     <h4><b>Fellow: </b>{videoObj.fellowname}</h4>
                                     <h4><b>Organization: </b>{videoObj.organization}</h4>
-
+                                    <b>Contact: </b>{videoObj.contact}
                                     <TwitterVideoEmbed id={id}
                                         onLoad={e => {if(e){e.style.display = "inline-block"}}}
                                     />
@@ -128,6 +128,8 @@ export function CityDetailView(props) {
                                     <h2>{videoObj.caption}</h2>
                                     <h4><b>Fellow: </b>{videoObj.fellowname}</h4>
                                     <h4><b>Organization: </b>{videoObj.organization}</h4>
+                                    <b>Contact: </b>{videoObj.contact}
+
                                     <InstagramEmbed url={videoObj.link}
                                         onLoad={e => {if(e){e.style.display = "inline-block"}}}
                                     />
@@ -142,6 +144,7 @@ export function CityDetailView(props) {
                                     <h2>{videoObj.caption}</h2>
                                     <h4><b>Fellow: </b>{videoObj.fellowname}</h4>
                                     <h4><b>Organization: </b>{videoObj.organization}</h4>
+                                    <b>Contact: </b>{videoObj.contact}
                                     <a href={videoObj.link} target="_blank" className='rawLink'>{videoObj.link} </a>
                                 </div>
                             )

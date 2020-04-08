@@ -59,7 +59,8 @@ function processSheetData(tabletop) {
                     link: "",//currentline['Content URL'],
                     caption: currentline['Name'],
                     fellowname: currentline['Fellow'],
-                    organization: currentline['Organization']
+                    organization: currentline['Organization'],
+                    contact: currentline['contact']
                     //caption: currentline['Caption'],
                     //date: currentline['Event Date'],
                     //protestName: currentline['Protest Name'],
@@ -74,7 +75,8 @@ function processSheetData(tabletop) {
                       link: "", //currentline['Content URL'],
                       caption: currentline['Name'],
                       fellowname: currentline['Fellow'],
-                      organization: currentline['Organization']
+                      organization: currentline['Organization'],
+                      contact: currentline['contact']
                       //date: currentline['Event Date'],
                       //protestName: currentline['Protest Name'],
                       //eventType: currentline['Event Type'],
