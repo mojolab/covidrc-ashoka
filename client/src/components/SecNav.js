@@ -9,7 +9,7 @@ export function SecNav(props) {
         <ul className="secNavContainer">
             <li><a
                 href="https://hackergram.org"
-                datacontent="हैकरgram Web Developer Puzzler #1"
+                datacontent="MojoMaps Node Base"
                 style={{backgroundImage: `url(${info})`}}
                 onClick={()=> {
                     handleAboutClicked();
