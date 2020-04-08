@@ -86,7 +86,7 @@ function App() {
 
   return (
     <div className="app">
-
+    
       <SecNav handleAboutClicked = {handleAboutClicked}/>
       <MapLayer className="mapLayer" onMarkerClick={onMarkerClick} videoData={videoData} totalCities={totalCities} desktopSize={desktopSize}/>
       {selectedCity && <CityDetailView selectedCity={selectedCity} videoData={videoData} onCityDetailClose={onCityDetailClose} desktopSize={desktopSize} />}
@@ -94,6 +94,3 @@ function App() {
 }
 
 export default App;
-
-
- 
