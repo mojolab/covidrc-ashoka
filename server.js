@@ -58,6 +58,8 @@ function processSheetData(tabletop) {
                 newjson.locations[currentline['Location']].blocks.push({
                     link: "",//currentline['Content URL'],
                     caption: currentline['Name'],
+                    fellowname: currentline['Fellow'],
+                    organization: currentline['Organization']
                     //caption: currentline['Caption'],
                     //date: currentline['Event Date'],
                     //protestName: currentline['Protest Name'],
@@ -71,6 +73,8 @@ function processSheetData(tabletop) {
                     blocks: [{
                       link: "", //currentline['Content URL'],
                       caption: currentline['Name'],
+                      fellowname: currentline['Fellow'],
+                      organization: currentline['Organization']
                       //date: currentline['Event Date'],
                       //protestName: currentline['Protest Name'],
                       //eventType: currentline['Event Type'],

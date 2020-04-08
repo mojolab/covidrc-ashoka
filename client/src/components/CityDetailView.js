@@ -35,7 +35,7 @@ export function CityDetailView(props) {
             await headerAnimControls.start(childVariants.open)
             bodyAnimControls.start(childVariants.open)
         }
-        else { 
+        else {
             await headerAnimControls.start(childVariants.close)
             await bodyAnimControls.start(childVariants.close)
             containerAnimControls.start(variants.close)
@@ -84,9 +84,9 @@ export function CityDetailView(props) {
                     }
                 }}
                 style={{height: 'calc(var(--vh, 1vh) * 100)', overflow: 'scroll', scrollBehavior: 'smooth', overscrollBehaviorY: 'none'}}
-            >   
-                <motion.div 
-                    className="cityDetailView_Header" 
+            >
+                <motion.div
+                    className="cityDetailView_Header"
                     variants={childVariants}
                     initial="close"
                     animate = {headerAnimControls}
@@ -96,12 +96,12 @@ export function CityDetailView(props) {
                         <img src={close} alt="close icon" />
                     </button>
                 </motion.div>
-                <motion.div 
-                    className="cityDetailView_videoList" 
+                <motion.div
+                    className="cityDetailView_videoList"
                     variants={childVariants}
                     initial="close"
                     animate={bodyAnimControls}
-                    
+
                 >
                     {videoData[selectedCity].blocks.slice(0).reverse().map((videoObj, index) => {
                         if(videoObj.link.indexOf('twitter.com') !== -1) {
@@ -110,20 +110,26 @@ export function CityDetailView(props) {
                                 <div className="linkCard" key={id + index}>
                                     <p>{videoObj.date}</p>
                                     <h2>{videoObj.caption}</h2>
-                                    <TwitterVideoEmbed id={id} 
-                                        onLoad={e => {if(e){e.style.display = "inline-block"}}} 
+
+                                    <h4><b>Fellow: </b>{videoObj.fellowname}</h4>
+                                    <h4><b>Organization: </b>{videoObj.organization}</h4>
+
+                                    <TwitterVideoEmbed id={id}
+                                        onLoad={e => {if(e){e.style.display = "inline-block"}}}
                                     />
                                 </div>
                             )
                         }
                         else if(videoObj.link.indexOf('instagram.com') !== -1) {
-                            
+
                             return (
                                 <div className="linkCard" key={videoObj.link+ index}>
                                     <p>{videoObj.date}</p>
                                     <h2>{videoObj.caption}</h2>
-                                    <InstagramEmbed url={videoObj.link} 
-                                        onLoad={e => {if(e){e.style.display = "inline-block"}}} 
+                                    <h4><b>Fellow: </b>{videoObj.fellowname}</h4>
+                                    <h4><b>Organization: </b>{videoObj.organization}</h4>
+                                    <InstagramEmbed url={videoObj.link}
+                                        onLoad={e => {if(e){e.style.display = "inline-block"}}}
                                     />
                                 </div>
                             )
@@ -134,13 +140,15 @@ export function CityDetailView(props) {
                                 <div className="linkCard" key={index}>
                                     <p>{videoObj.date}</p>
                                     <h2>{videoObj.caption}</h2>
+                                    <h4><b>Fellow: </b>{videoObj.fellowname}</h4>
+                                    <h4><b>Organization: </b>{videoObj.organization}</h4>
                                     <a href={videoObj.link} target="_blank" className='rawLink'>{videoObj.link} </a>
                                 </div>
                             )
-                        }   
+                        }
                     })}
-                </motion.div>  
-              
+                </motion.div>
+
             </motion.div>
         </AnimatePresence>
     )
