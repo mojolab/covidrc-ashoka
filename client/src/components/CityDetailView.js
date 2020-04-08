@@ -141,7 +141,7 @@ export function CityDetailView(props) {
                             return (
                                 <div className="linkCard" key={index}>
                                     <p>{videoObj.date}</p>
-                                    <h2 className={videoObj.type}>{videoObj.caption}</h2>
+                                    <h2 className={videoObj.type}>{videoObj.Type}: {videoObj.caption}</h2>
                                     <h4><b>Fellow: </b>{videoObj.fellowname}</h4>
                                     <h4><b>Organization: </b>{videoObj.organization}</h4>
                                     <b>Contact: </b>{videoObj.contact}
