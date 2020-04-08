@@ -83,6 +83,21 @@
   align-items: center;
 }
 
+.offer {
+  background-color: var(--accent-color-2);
+  opacity: 0.80;
+  color: var(--base-white-1);
+  align-items: center;
+  padding: 1px;
+}
+.request {
+  background-color: var(--accent-color-1);
+  opacity: 0.80;
+  color: var(--base-white-1);
+  align-items: center;
+  padding: 1px;
+}
+
 .marker_txt p{
   flex-grow: 1;
 }

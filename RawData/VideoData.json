@@ -1,27 +1,38 @@
 {
   "locations": {
+    "Uttarakhand": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer"
+        }
+      ],
+      "coordinates": {
+        "latitude": "30.0668",
+        "longitude": "79.0193"
+      }
+    },
     "Telangana": {
       "blocks": [
         {
           "link": "",
-          "caption": "",
+          "caption": "Consultationw ith voluntary doctors",
           "fellowname": "Mukteshwari Bosco",
           "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org"
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "request"
         },
         {
           "link": "",
-          "caption": "",
+          "caption": "Consultationw ith voluntary doctors",
           "fellowname": "Mukteshwari Bosco",
           "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org"
-        },
-        {
-          "link": "",
-          "caption": "Connect with Mobile Vaani and trainings in areas where we work",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org"
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "request"
         }
       ],
       "coordinates": {
@@ -36,55 +47,21 @@
           "caption": "online curriculum",
           "fellowname": "Kiran Bir Sethi",
           "organization": "Riverside School and  Design for Change",
-          "contact": "kiranbirsethi@gmail.com "
+          "contact": "kiranbirsethi@gmail.com ",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "open source material from DFC",
           "fellowname": "Kiran Bir Sethi",
           "organization": "Riverside School and  Design for Change",
-          "contact": "kiranbirsethi@gmail.com "
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Kiran Bir Sethi",
-          "organization": "Riverside School and  Design for Change",
-          "contact": "kiranbirsethi@gmail.com "
+          "contact": "kiranbirsethi@gmail.com ",
+          "type": "offer"
         }
       ],
       "coordinates": {
         "latitude": "22.2587",
         "longitude": "71.1924"
-      }
-    },
-    "Uttarakhand": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        }
-      ],
-      "coordinates": {
-        "latitude": "30.0668",
-        "longitude": "79.0193"
       }
     },
     "Tripura": {
@@ -94,21 +71,24 @@
           "caption": "Herbal Hand wash , Soap ",
           "fellowname": "Sanjeev Kumar ",
           "organization": "The Goat trust ",
-          "contact": "thegoattrust@gmail.com "
+          "contact": "thegoattrust@gmail.com ",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Immunity enhancer Goat milk +Moringa ",
           "fellowname": "Sanjeev Kumar ",
           "organization": "The Goat trust ",
-          "contact": "thegoattrust@gmail.com "
+          "contact": "thegoattrust@gmail.com ",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Quick enterprises in goat value chain",
           "fellowname": "Sanjeev Kumar ",
           "organization": "The Goat trust ",
-          "contact": "thegoattrust@gmail.com "
+          "contact": "thegoattrust@gmail.com ",
+          "type": "offer"
         }
       ],
       "coordinates": {
@@ -120,24 +100,27 @@
       "blocks": [
         {
           "link": "",
-          "caption": "Tech support (Remote)",
-          "fellowname": "Anup Akkihal",
-          "organization": "Logistimo",
-          "contact": "anup@logistimo.com"
-        },
-        {
-          "link": "",
           "caption": "Information (Remote)",
           "fellowname": "Anup Akkihal",
           "organization": "Logistimo",
-          "contact": "anup@logistimo.com"
+          "contact": "anup@logistimo.com",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Providing web services globally",
           "fellowname": "Anup Akkihal",
           "organization": "Logistimo",
-          "contact": "anup@logistimo.com"
+          "contact": "anup@logistimo.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Tech support (Remote)",
+          "fellowname": "Anup Akkihal",
+          "organization": "Logistimo",
+          "contact": "anup@logistimo.com",
+          "type": "offer"
         }
       ],
       "coordinates": {
@@ -145,57 +128,39 @@
         "longitude": "77.1025"
       }
     },
-    "Andaman &Nicobar Island": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "Warehouse facility ",
-          "fellowname": "Mathew Jose ",
-          "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in"
-        },
-        {
-          "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Mathew Jose ",
-          "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in"
-        },
-        {
-          "link": "",
-          "caption": "Information",
-          "fellowname": "Mathew Jose ",
-          "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in"
-        }
-      ],
-      "coordinates": {
-        "latitude": "11.7401",
-        "longitude": "92.6586"
-      }
-    },
     "Chattisgarh": {
       "blocks": [
         {
           "link": "",
-          "caption": "video production",
+          "caption": "communications strategy for govt",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "communications training",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "communications strategy for govt",
+          "caption": "video production",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "access to state governments, , experts on public health in villages",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "request"
         }
       ],
       "coordinates": {
@@ -207,24 +172,35 @@
       "blocks": [
         {
           "link": "",
-          "caption": "video production",
+          "caption": "communications strategy for govt",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "communications training",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "communications strategy for govt",
+          "caption": "video production",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "access to state governments, , experts on public health in villages",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "request"
         }
       ],
       "coordinates": {
@@ -236,24 +212,35 @@
       "blocks": [
         {
           "link": "",
-          "caption": "video production",
+          "caption": "communications strategy for govt",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "communications training",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "communications strategy for govt",
+          "caption": "video production",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "access to state governments, , experts on public health in villages",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "request"
         }
       ],
       "coordinates": {
@@ -261,199 +248,103 @@
         "longitude": "87.855"
       }
     },
-    "Assam": {
+    "Andaman &Nicobar Island": {
       "blocks": [
-        {
-          "link": "",
-          "caption": "Medical",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Deep Jyoti Sonu Brahma",
-          "organization": "Farm2Food Foundation",
-          "contact": "deepjyotisonu@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Wellbeing support",
-          "fellowname": "Deep Jyoti Sonu Brahma",
-          "organization": "Farm2Food Foundation",
-          "contact": "deepjyotisonu@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Deep Jyoti Sonu Brahma",
-          "organization": "Farm2Food Foundation",
-          "contact": "deepjyotisonu@gmail.com"
-        }
-      ],
-      "coordinates": {
-        "latitude": "26.2006",
-        "longitude": "92.9376"
-      }
-    },
-    "Tamil Nadu": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "Medical",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com"
-        },
         {
           "link": "",
           "caption": "Warehouse facility ",
           "fellowname": "Mathew Jose ",
           "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in"
-        },
-        {
-          "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Mathew Jose ",
-          "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in"
+          "contact": "mathew@paperman.in",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Information",
           "fellowname": "Mathew Jose ",
           "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in"
+          "contact": "mathew@paperman.in",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "others",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Information",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
+          "type": "request"
         }
       ],
       "coordinates": {
-        "latitude": "11.1271",
-        "longitude": "78.6569"
-      }
-    },
-    "Goa": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "Tech support",
-          "fellowname": "Kavita Anand",
-          "organization": "Adhyayan Quality Education Services Pvt. Ltd. and Adhyayan Quality Education Foundation",
-          "contact": "kavita.anand@adhyayan.asia ; kavita.anand@adhyayanfoundation.org"
-        },
-        {
-          "link": "",
-          "caption": "Diagnostics for impact assessment",
-          "fellowname": "Kavita Anand",
-          "organization": "Adhyayan Quality Education Services Pvt. Ltd. and Adhyayan Quality Education Foundation",
-          "contact": "kavita.anand@adhyayan.asia ; kavita.anand@adhyayanfoundation.org"
-        },
-        {
-          "link": "",
-          "caption": "Processes for developing capacity of educators and education stakeholders through professional learning communities of practice",
-          "fellowname": "Kavita Anand",
-          "organization": "Adhyayan Quality Education Services Pvt. Ltd. and Adhyayan Quality Education Foundation",
-          "contact": "kavita.anand@adhyayan.asia ; kavita.anand@adhyayanfoundation.org"
-        },
-        {
-          "link": "",
-          "caption": "video production",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
-        },
-        {
-          "link": "",
-          "caption": "communications training",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
-        },
-        {
-          "link": "",
-          "caption": "communications strategy for govt",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
-        }
-      ],
-      "coordinates": {
-        "latitude": "15.2993",
-        "longitude": "74.124"
+        "latitude": "11.7401",
+        "longitude": "92.6586"
       }
     },
     "Jharkhand": {
       "blocks": [
         {
           "link": "",
-          "caption": "",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org"
-        },
-        {
-          "link": "",
-          "caption": "",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org"
-        },
-        {
-          "link": "",
-          "caption": "Connect with Mobile Vaani and trainings in areas where we work",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org"
-        },
-        {
-          "link": "",
-          "caption": "video production",
+          "caption": "communications strategy for govt",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Consultationw ith voluntary doctors",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "request"
         },
         {
           "link": "",
           "caption": "communications training",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "communications strategy for govt",
+          "caption": "video production",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "access to state governments, , experts on public health in villages",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Consultationw ith voluntary doctors",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "request"
         }
       ],
       "coordinates": {
@@ -465,45 +356,51 @@
       "blocks": [
         {
           "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
           "caption": "Warehouse facility ",
           "fellowname": "Mathew Jose ",
           "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in"
+          "contact": "mathew@paperman.in",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Mathew Jose ",
-          "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in"
+          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Information",
           "fellowname": "Mathew Jose ",
           "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in"
+          "contact": "mathew@paperman.in",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "others",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Information",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
+          "type": "request"
         }
       ],
       "coordinates": {
@@ -515,66 +412,59 @@
       "blocks": [
         {
           "link": "",
-          "caption": "",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org"
-        },
-        {
-          "link": "",
-          "caption": "",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org"
-        },
-        {
-          "link": "",
-          "caption": "Connect with Mobile Vaani and trainings in areas where we work",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "video production",
+          "caption": "communications strategy for govt",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Consultationw ith voluntary doctors",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "request"
         },
         {
           "link": "",
           "caption": "communications training",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "communications strategy for govt",
+          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "video production",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "access to state governments, , experts on public health in villages",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Consultationw ith voluntary doctors",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "request"
         }
       ],
       "coordinates": {
@@ -582,70 +472,151 @@
         "longitude": "85.3131"
       }
     },
-    "Delhi (NCR)": {
+    "Goa": {
       "blocks": [
         {
           "link": "",
-          "caption": "Data Analytics",
-          "fellowname": "Piyush Tewari",
-          "organization": "SaveLIFE Foundation",
-          "contact": "piyushtewari@savelifefoundation.org "
+          "caption": "communications strategy for govt",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "Tools for PPE and Ventilator Estimation",
-          "fellowname": "Piyush Tewari",
-          "organization": "SaveLIFE Foundation",
-          "contact": "piyushtewari@savelifefoundation.org "
+          "caption": "Tech support",
+          "fellowname": "Kavita Anand",
+          "organization": "Adhyayan Quality Education Services Pvt. Ltd. and Adhyayan Quality Education Foundation",
+          "contact": "kavita.anand@adhyayan.asia ; kavita.anand@adhyayanfoundation.org",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "Procurement of PPEs",
-          "fellowname": "Piyush Tewari",
-          "organization": "SaveLIFE Foundation",
-          "contact": "piyushtewari@savelifefoundation.org "
+          "caption": "communications training",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
         },
+        {
+          "link": "",
+          "caption": "Diagnostics for impact assessment",
+          "fellowname": "Kavita Anand",
+          "organization": "Adhyayan Quality Education Services Pvt. Ltd. and Adhyayan Quality Education Foundation",
+          "contact": "kavita.anand@adhyayan.asia ; kavita.anand@adhyayanfoundation.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Processes for developing capacity of educators and education stakeholders through professional learning communities of practice",
+          "fellowname": "Kavita Anand",
+          "organization": "Adhyayan Quality Education Services Pvt. Ltd. and Adhyayan Quality Education Foundation",
+          "contact": "kavita.anand@adhyayan.asia ; kavita.anand@adhyayanfoundation.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "video production",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "access to state governments, , experts on public health in villages",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Kavita Anand",
+          "organization": "Adhyayan Quality Education Services Pvt. Ltd. and Adhyayan Quality Education Foundation",
+          "contact": "kavita.anand@adhyayan.asia ; kavita.anand@adhyayanfoundation.org",
+          "type": "request"
+        }
+      ],
+      "coordinates": {
+        "latitude": "15.2993",
+        "longitude": "74.124"
+      }
+    },
+    "Delhi (NCR)": {
+      "blocks": [
         {
           "link": "",
           "caption": "Community Mobilisation",
           "fellowname": "Anita Ahuja",
           "organization": "Conserve",
-          "contact": "anita@conserveindia.org"
+          "contact": "anita@conserveindia.org",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Helpline platform",
           "fellowname": "Anita Ahuja",
           "organization": "Conserve",
-          "contact": "anita@conserveindia.org"
+          "contact": "anita@conserveindia.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Data Analytics",
+          "fellowname": "Piyush Tewari",
+          "organization": "SaveLIFE Foundation",
+          "contact": "piyushtewari@savelifefoundation.org ",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Manufactured PPEs",
           "fellowname": "Anita Ahuja",
           "organization": "Conserve",
-          "contact": "anita@conserveindia.org"
+          "contact": "anita@conserveindia.org",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
+          "caption": "Procurement of PPEs",
+          "fellowname": "Piyush Tewari",
+          "organization": "SaveLIFE Foundation",
+          "contact": "piyushtewari@savelifefoundation.org ",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
+          "caption": "Tools for PPE and Ventilator Estimation",
+          "fellowname": "Piyush Tewari",
+          "organization": "SaveLIFE Foundation",
+          "contact": "piyushtewari@savelifefoundation.org ",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
+          "caption": "Access to Volunteers",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "request"
         }
       ],
       "coordinates": {
@@ -653,275 +624,319 @@
         "longitude": "77.1025"
       }
     },
-    "Karnataka": {
+    "Tamil Nadu": {
       "blocks": [
-        {
-          "link": "",
-          "caption": "Medical",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com"
-        },
         {
           "link": "",
           "caption": "Community Mobilisation",
           "fellowname": "Dr.Sudarshan Hanumanappa",
           "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com"
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Access to Volunteers",
           "fellowname": "Dr.Sudarshan Hanumanappa",
           "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com"
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "Wellbeing support (Delivery anywhere)",
-          "fellowname": "Ashwin Naik",
-          "organization": "Manah Wellness",
-          "contact": "ashwin.naik@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Helpline platform (Delivery anywhere)",
-          "fellowname": "Ashwin Naik",
-          "organization": "Manah Wellness",
-          "contact": "ashwin.naik@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Medical (Delivery anywhere)",
-          "fellowname": "Ashwin Naik",
-          "organization": "Manah Wellness",
-          "contact": "ashwin.naik@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Mabel Pinto",
-          "organization": "Deepalaya Social service Centre",
-          "contact": "9739065166 dhmdeepalaya@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Helpline platform",
-          "fellowname": "Mabel Pinto",
-          "organization": "Deepalaya Social service Centre",
-          "contact": "9739065166 dhmdeepalaya@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "",
-          "fellowname": "Mabel Pinto",
-          "organization": "Deepalaya Social service Centre",
-          "contact": "9739065166 dhmdeepalaya@gmail.com"
-        }
-      ],
-      "coordinates": {
-        "latitude": "15.3173",
-        "longitude": "75.7139"
-      }
-    },
-    "Odisha": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "Medical",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
+          "caption": "Warehouse facility ",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Information",
-          "fellowname": "Blacius Ekka",
-          "organization": "OCI",
-          "contact": "blaciussj@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Blacius Ekka",
-          "organization": "OCI",
-          "contact": "blaciussj@gmail.com"
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Community Mobilisation",
-          "fellowname": "Blacius Ekka",
-          "organization": "OCI",
-          "contact": "blaciussj@gmail.com"
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "video production",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "caption": "Medical",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "communications training",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "caption": "others",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
+          "type": "request"
         },
         {
           "link": "",
-          "caption": "communications strategy for govt",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "caption": "others",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platforms",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Information",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Information",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
+          "type": "request"
         }
       ],
       "coordinates": {
-        "latitude": "20.9517",
-        "longitude": "85.0985"
+        "latitude": "11.1271",
+        "longitude": "78.6569"
+      }
+    },
+    "Assam": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Deep Jyoti Sonu Brahma",
+          "organization": "Farm2Food Foundation",
+          "contact": "deepjyotisonu@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Wellbeing support",
+          "fellowname": "Deep Jyoti Sonu Brahma",
+          "organization": "Farm2Food Foundation",
+          "contact": "deepjyotisonu@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation",
+          "fellowname": "Deep Jyoti Sonu Brahma",
+          "organization": "Farm2Food Foundation",
+          "contact": "deepjyotisonu@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Medical",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "others",
+          "fellowname": "Deep Jyoti Sonu Brahma",
+          "organization": "Farm2Food Foundation",
+          "contact": "deepjyotisonu@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "others",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Deep Jyoti Sonu Brahma",
+          "organization": "Farm2Food Foundation",
+          "contact": "deepjyotisonu@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platforms",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Information",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Medical",
+          "fellowname": "Deep Jyoti Sonu Brahma",
+          "organization": "Farm2Food Foundation",
+          "contact": "deepjyotisonu@gmail.com",
+          "type": "request"
+        }
+      ],
+      "coordinates": {
+        "latitude": "26.2006",
+        "longitude": "92.9376"
       }
     },
     "Uttar Pradesh": {
       "blocks": [
         {
           "link": "",
-          "caption": "",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org"
-        },
-        {
-          "link": "",
-          "caption": "",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org"
-        },
-        {
-          "link": "",
-          "caption": "Connect with Mobile Vaani and trainings in areas where we work",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org"
+          "caption": "communications strategy for govt",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Community Mobilisation",
           "fellowname": "Anita Ahuja",
           "organization": "Conserve",
-          "contact": "anita@conserveindia.org"
+          "contact": "anita@conserveindia.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Consultationw ith voluntary doctors",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "request"
         },
         {
           "link": "",
           "caption": "Helpline platform",
           "fellowname": "Anita Ahuja",
           "organization": "Conserve",
-          "contact": "anita@conserveindia.org"
-        },
-        {
-          "link": "",
-          "caption": "Manufactured PPEs",
-          "fellowname": "Anita Ahuja",
-          "organization": "Conserve",
-          "contact": "anita@conserveindia.org"
-        },
-        {
-          "link": "",
-          "caption": "Herbal Hand wash , Soap ",
-          "fellowname": "Sanjeev Kumar ",
-          "organization": "The Goat trust ",
-          "contact": "thegoattrust@gmail.com "
-        },
-        {
-          "link": "",
-          "caption": "Immunity enhancer Goat milk +Moringa ",
-          "fellowname": "Sanjeev Kumar ",
-          "organization": "The Goat trust ",
-          "contact": "thegoattrust@gmail.com "
-        },
-        {
-          "link": "",
-          "caption": "Quick enterprises in goat value chain",
-          "fellowname": "Sanjeev Kumar ",
-          "organization": "The Goat trust ",
-          "contact": "thegoattrust@gmail.com "
-        },
-        {
-          "link": "",
-          "caption": "video production",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "anita@conserveindia.org",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "communications training",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "communications strategy for govt",
+          "caption": "Herbal Hand wash , Soap ",
+          "fellowname": "Sanjeev Kumar ",
+          "organization": "The Goat trust ",
+          "contact": "thegoattrust@gmail.com ",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Immunity enhancer Goat milk +Moringa ",
+          "fellowname": "Sanjeev Kumar ",
+          "organization": "The Goat trust ",
+          "contact": "thegoattrust@gmail.com ",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Manufactured PPEs",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Quick enterprises in goat value chain",
+          "fellowname": "Sanjeev Kumar ",
+          "organization": "The Goat trust ",
+          "contact": "thegoattrust@gmail.com ",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "video production",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "access to state governments, , experts on public health in villages",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Consultationw ith voluntary doctors",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "request"
         }
       ],
       "coordinates": {
@@ -929,91 +944,455 @@
         "longitude": "80.9462"
       }
     },
-    "Rajasthan": {
+    "Odisha": {
       "blocks": [
         {
           "link": "",
+          "caption": "communications strategy for govt",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Information",
+          "fellowname": "Blacius Ekka",
+          "organization": "OCI",
+          "contact": "blaciussj@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
           "caption": "Community Mobilisation",
-          "fellowname": "Anita Ahuja",
-          "organization": "Conserve",
-          "contact": "anita@conserveindia.org"
-        },
-        {
-          "link": "",
-          "caption": "Helpline platform",
-          "fellowname": "Anita Ahuja",
-          "organization": "Conserve",
-          "contact": "anita@conserveindia.org"
-        },
-        {
-          "link": "",
-          "caption": "Manufactured PPEs",
-          "fellowname": "Anita Ahuja",
-          "organization": "Conserve",
-          "contact": "anita@conserveindia.org"
-        },
-        {
-          "link": "",
-          "caption": "Helpline platform",
-          "fellowname": "Kumar Shailabh",
-          "organization": "Uplift Mutuals",
-          "contact": "krshailabh@upliftmutuals.org 9923115524"
-        },
-        {
-          "link": "",
-          "caption": "Medical",
-          "fellowname": "Kumar Shailabh",
-          "organization": "Uplift Mutuals",
-          "contact": "krshailabh@upliftmutuals.org 9923115524"
-        },
-        {
-          "link": "",
-          "caption": "Other",
-          "fellowname": "Kumar Shailabh",
-          "organization": "Uplift Mutuals",
-          "contact": "krshailabh@upliftmutuals.org 9923115524"
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Access to Volunteers",
-          "fellowname": "Priya Agrawal",
-          "organization": "Antarang Foundation",
-          "contact": "priya@antarangfoundation.org"
-        },
-        {
-          "link": "",
-          "caption": "Helpline platform",
-          "fellowname": "Priya Agrawal",
-          "organization": "Antarang Foundation",
-          "contact": "priya@antarangfoundation.org"
-        },
-        {
-          "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Priya Agrawal",
-          "organization": "Antarang Foundation",
-          "contact": "priya@antarangfoundation.org"
-        },
-        {
-          "link": "",
-          "caption": "video production",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "communications training",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
         },
+        {
+          "link": "",
+          "caption": "Community Mobilisation",
+          "fellowname": "Blacius Ekka",
+          "organization": "OCI",
+          "contact": "blaciussj@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "video production",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Medical",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Blacius Ekka",
+          "organization": "OCI",
+          "contact": "blaciussj@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "others",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Tech support",
+          "fellowname": "Blacius Ekka",
+          "organization": "OCI",
+          "contact": "blaciussj@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "access to state governments, , experts on public health in villages",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Blacius Ekka",
+          "organization": "OCI",
+          "contact": "blaciussj@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platforms",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Information",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request"
+        }
+      ],
+      "coordinates": {
+        "latitude": "20.9517",
+        "longitude": "85.0985"
+      }
+    },
+    "Karnataka": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Helpline platform (Delivery anywhere)",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Wellbeing support (Delivery anywhere)",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Mabel Pinto",
+          "organization": "Deepalaya Social service Centre",
+          "contact": "9739065166 dhmdeepalaya@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platform",
+          "fellowname": "Mabel Pinto",
+          "organization": "Deepalaya Social service Centre",
+          "contact": "9739065166 dhmdeepalaya@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Mabel Pinto",
+          "organization": "Deepalaya Social service Centre",
+          "contact": "9739065166 dhmdeepalaya@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Medical",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Medical (Delivery anywhere)",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "others",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "others",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Mabel Pinto",
+          "organization": "Deepalaya Social service Centre",
+          "contact": "9739065166 dhmdeepalaya@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platforms",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Information",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Information",
+          "fellowname": "Mabel Pinto",
+          "organization": "Deepalaya Social service Centre",
+          "contact": "9739065166 dhmdeepalaya@gmail.com",
+          "type": "request"
+        }
+      ],
+      "coordinates": {
+        "latitude": "15.3173",
+        "longitude": "75.7139"
+      }
+    },
+    "Rajasthan": {
+      "blocks": [
         {
           "link": "",
           "caption": "communications strategy for govt",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org"
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation",
+          "fellowname": "Priya Agrawal",
+          "organization": "Antarang Foundation",
+          "contact": "priya@antarangfoundation.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platform",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platform",
+          "fellowname": "Kumar Shailabh",
+          "organization": "Uplift Mutuals",
+          "contact": "krshailabh@upliftmutuals.org 9923115524",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platform",
+          "fellowname": "Priya Agrawal",
+          "organization": "Antarang Foundation",
+          "contact": "priya@antarangfoundation.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Medical",
+          "fellowname": "Kumar Shailabh",
+          "organization": "Uplift Mutuals",
+          "contact": "krshailabh@upliftmutuals.org 9923115524",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "communications training",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Manufactured PPEs",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Other",
+          "fellowname": "Kumar Shailabh",
+          "organization": "Uplift Mutuals",
+          "contact": "krshailabh@upliftmutuals.org 9923115524",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "video production",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Priya Agrawal",
+          "organization": "Antarang Foundation",
+          "contact": "priya@antarangfoundation.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Wellbeing support",
+          "fellowname": "Priya Agrawal",
+          "organization": "Antarang Foundation",
+          "contact": "priya@antarangfoundation.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "access to state governments, , experts on public health in villages",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Priya Agrawal",
+          "organization": "Antarang Foundation",
+          "contact": "priya@antarangfoundation.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Kumar Shailabh",
+          "organization": "Uplift Mutuals",
+          "contact": "krshailabh@upliftmutuals.org 9923115524",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Priya Agrawal",
+          "organization": "Antarang Foundation",
+          "contact": "priya@antarangfoundation.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Kumar Shailabh",
+          "organization": "Uplift Mutuals",
+          "contact": "krshailabh@upliftmutuals.org 9923115524",
+          "type": "request"
         }
       ],
       "coordinates": {
@@ -1025,108 +1404,171 @@
       "blocks": [
         {
           "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "NaN",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org"
-        },
-        {
-          "link": "",
-          "caption": "Wellbeing support (Delivery anywhere)",
-          "fellowname": "Ashwin Naik",
-          "organization": "Manah Wellness",
-          "contact": "ashwin.naik@gmail.com"
+          "caption": "Community Mobilisation",
+          "fellowname": "Priya Agrawal",
+          "organization": "Antarang Foundation",
+          "contact": "priya@antarangfoundation.org",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Helpline platform (Delivery anywhere)",
           "fellowname": "Ashwin Naik",
           "organization": "Manah Wellness",
-          "contact": "ashwin.naik@gmail.com"
+          "contact": "ashwin.naik@gmail.com",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "Medical (Delivery anywhere)",
+          "caption": "Wellbeing support (Delivery anywhere)",
           "fellowname": "Ashwin Naik",
           "organization": "Manah Wellness",
-          "contact": "ashwin.naik@gmail.com"
-        },
-        {
-          "link": "",
-          "caption": "Herbal Hand wash , Soap ",
-          "fellowname": "Sanjeev Kumar ",
-          "organization": "The Goat trust ",
-          "contact": "thegoattrust@gmail.com "
-        },
-        {
-          "link": "",
-          "caption": "Immunity enhancer Goat milk +Moringa ",
-          "fellowname": "Sanjeev Kumar ",
-          "organization": "The Goat trust ",
-          "contact": "thegoattrust@gmail.com "
-        },
-        {
-          "link": "",
-          "caption": "Quick enterprises in goat value chain",
-          "fellowname": "Sanjeev Kumar ",
-          "organization": "The Goat trust ",
-          "contact": "thegoattrust@gmail.com "
+          "contact": "ashwin.naik@gmail.com",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Helpline platform",
           "fellowname": "Kumar Shailabh",
           "organization": "Uplift Mutuals",
-          "contact": "krshailabh@upliftmutuals.org 9923115524"
+          "contact": "krshailabh@upliftmutuals.org 9923115524",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platform",
+          "fellowname": "Priya Agrawal",
+          "organization": "Antarang Foundation",
+          "contact": "priya@antarangfoundation.org",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Medical",
           "fellowname": "Kumar Shailabh",
           "organization": "Uplift Mutuals",
-          "contact": "krshailabh@upliftmutuals.org 9923115524"
+          "contact": "krshailabh@upliftmutuals.org 9923115524",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Herbal Hand wash , Soap ",
+          "fellowname": "Sanjeev Kumar ",
+          "organization": "The Goat trust ",
+          "contact": "thegoattrust@gmail.com ",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Immunity enhancer Goat milk +Moringa ",
+          "fellowname": "Sanjeev Kumar ",
+          "organization": "The Goat trust ",
+          "contact": "thegoattrust@gmail.com ",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Other",
           "fellowname": "Kumar Shailabh",
           "organization": "Uplift Mutuals",
-          "contact": "krshailabh@upliftmutuals.org 9923115524"
+          "contact": "krshailabh@upliftmutuals.org 9923115524",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Quick enterprises in goat value chain",
+          "fellowname": "Sanjeev Kumar ",
+          "organization": "The Goat trust ",
+          "contact": "thegoattrust@gmail.com ",
+          "type": "offer"
+        },
+        {
+          "link": "",
+          "caption": "Medical (Delivery anywhere)",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "offer"
         },
         {
           "link": "",
           "caption": "Access to Volunteers",
           "fellowname": "Priya Agrawal",
           "organization": "Antarang Foundation",
-          "contact": "priya@antarangfoundation.org"
+          "contact": "priya@antarangfoundation.org",
+          "type": "offer"
         },
         {
           "link": "",
-          "caption": "Helpline platform",
+          "caption": "others",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Wellbeing support",
           "fellowname": "Priya Agrawal",
           "organization": "Antarang Foundation",
-          "contact": "priya@antarangfoundation.org"
+          "contact": "priya@antarangfoundation.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Priya Agrawal",
+          "organization": "Antarang Foundation",
+          "contact": "priya@antarangfoundation.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "request"
         },
         {
           "link": "",
           "caption": "Community Mobilisation",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Kumar Shailabh",
+          "organization": "Uplift Mutuals",
+          "contact": "krshailabh@upliftmutuals.org 9923115524",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
           "fellowname": "Priya Agrawal",
           "organization": "Antarang Foundation",
-          "contact": "priya@antarangfoundation.org"
+          "contact": "priya@antarangfoundation.org",
+          "type": "request"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Kumar Shailabh",
+          "organization": "Uplift Mutuals",
+          "contact": "krshailabh@upliftmutuals.org 9923115524",
+          "type": "request"
         }
       ],
       "coordinates": {
@@ -1135,5 +1577,5 @@
       }
     }
   },
-  "totalBlocks": 138
+  "totalBlocks": 176
 }

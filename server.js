@@ -60,7 +60,8 @@ function processSheetData(tabletop) {
                     caption: currentline['Name'],
                     fellowname: currentline['Fellow'],
                     organization: currentline['Organization'],
-                    contact: currentline['contact']
+                    contact: currentline['contact'],
+                    type:currentline['Type'].toLowerCase()
                     //caption: currentline['Caption'],
                     //date: currentline['Event Date'],
                     //protestName: currentline['Protest Name'],
@@ -76,7 +77,8 @@ function processSheetData(tabletop) {
                       caption: currentline['Name'],
                       fellowname: currentline['Fellow'],
                       organization: currentline['Organization'],
-                      contact: currentline['contact']
+                      contact: currentline['contact'],
+                      type:currentline['Type'].toLowerCase()
                       //date: currentline['Event Date'],
                       //protestName: currentline['Protest Name'],
                       //eventType: currentline['Event Type'],

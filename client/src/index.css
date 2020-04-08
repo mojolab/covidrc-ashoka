@@ -44,6 +44,7 @@ body {
   overflow: hidden;
   overscroll-behavior: contain;
   --accent-color-1: #FF5853;
+  --accent-color-2: #168019;
   --base-black-1: #1f2532;
   --base-white-1: #fffcf2;
   --display-font: 'Signika';
