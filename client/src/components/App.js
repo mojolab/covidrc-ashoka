@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react';
 import Firebase from 'firebase';
 import {PageView, initGA} from './Tracking';
 import {MapLayer} from './MapLayer.js';
-import {CityDetailView} from './CityDetailView.js'; 
+import {CityDetailView} from './CityDetailView.js';
 //import {SubmitForm} from './SubmitForm.js';
 //import {IntroScreen} from './IntroScreen';
 //import {About} from './About'
@@ -40,8 +40,8 @@ function App() {
     PageView('Intro')
     fetchJSON()
       .then(res => {
-        setVideoData(res.states);
-        let citiesArray = Object.keys(res.states);
+        setVideoData(res.locations);
+        let citiesArray = Object.keys(res.locations);
         let urlLocation = window.location.href
         let hashCity = urlLocation.split('#')[1];
         if(hashCity !== undefined && hashCity.length>1) {
@@ -67,7 +67,7 @@ function App() {
     if(selectedCity !== city) {
       setSelectedCity(city);
     }
-  } 
+  }
 
   const onCityDetailClose = (e) => {
     e && e.preventDefault();
@@ -86,7 +86,7 @@ function App() {
 
   return (
     <div className="app">
-      
+
       <SecNav handleAboutClicked = {handleAboutClicked}/>
       <MapLayer className="mapLayer" onMarkerClick={onMarkerClick} videoData={videoData} totalCities={totalCities} desktopSize={desktopSize}/>
       {selectedCity && <CityDetailView selectedCity={selectedCity} videoData={videoData} onCityDetailClose={onCityDetailClose} desktopSize={desktopSize} />}
