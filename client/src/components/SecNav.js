@@ -8,7 +8,7 @@ export function SecNav(props) {
     return (
         <ul className="secNavContainer">
             <li><a
-                href="https://hackergram.org"
+                href="#"
                 datacontent="COVID-19 Resource Center"
                 style={{backgroundImage: `url(${info})`}}
                 onClick={()=> {

@@ -6,7 +6,7 @@ import {CityDetailView} from './CityDetailView.js';
 
 //import {SubmitForm} from './SubmitForm.js';
 //import {IntroScreen} from './IntroScreen';
-//import {About} from './About'
+import {About} from './About'
 import {SecNav} from './SecNav.js'
 import './CSS/App.css'
 
@@ -126,6 +126,8 @@ function App() {
         Search by text: <input type="text" name="searchQuery" onChange={onChangeSearch.bind(searchQuery)}></input>
       </form>
       </div>
+      {isAboutOpen && <About handleAboutClose={handleAboutClose} desktopSize={desktopSize} />}
+
       <SecNav handleAboutClicked = {handleAboutClicked}/>
       <MapLayer className="mapLayer" onMarkerClick={onMarkerClick} videoData={videoData} totalCities={totalCities} desktopSize={desktopSize}/>
       {selectedCity && <CityDetailView selectedCity={selectedCity} videoData={videoData} onCityDetailClose={onCityDetailClose} desktopSize={desktopSize} />}
