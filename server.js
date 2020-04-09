@@ -9,7 +9,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 const datasrc = "SHEET" // "TSV" or "SHEET"
 const approvedSheetName = 'People';
-const textfields = ['Name', 'State']
+const textfields = ['Name', 'Location']
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
   extended: true
@@ -65,8 +65,8 @@ function processSheetData(tabletop) {
     let newjson = { "locations": {}, "totalBlocks": 0 }
     data.map(currentline => {
       if (!isNaN(currentline['Latitude (°N)']) && !isNaN(currentline['Longitude (°E)'])) {
-        if (newjson.locations[currentline['State']] !== undefined) {
-          newjson.locations[currentline['State']].blocks.push({
+        if (newjson.locations[currentline['Location']] !== undefined) {
+          newjson.locations[currentline['Location']].blocks.push({
             link: "",//currentline['Content URL'],
             caption: currentline['Name'],
             textsearch: get_text_field(currentline)
@@ -79,7 +79,7 @@ function processSheetData(tabletop) {
           })
         }
         else {
-          newjson.locations[currentline['State']] = {
+          newjson.locations[currentline['Location']] = {
             blocks: [{
               link: "", //currentline['Content URL'],
               caption: currentline['Name'],
