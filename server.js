@@ -9,6 +9,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 const datasrc = "SHEET" // "TSV" or "SHEET"
 const approvedSheetName = 'People';
+const textfields = ['Name', 'State']
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
   extended: true
@@ -46,53 +47,65 @@ function getSheetData() {
   })
 }
 
+function get_text_field(item) {
+  var text="";
+  textfields.forEach(function(key){
+    text=text+" "+item[key]
+  });
+  return text;
+}
+
+
+
 //Cleaning up the sheet data
 function processSheetData(tabletop) {
-  if(tabletop.models[approvedSheetName]){
+  if (tabletop.models[approvedSheetName]) {
     let data = tabletop.models[approvedSheetName].elements;
     console.log(data[0])
-    let newjson = {"states":{},"totalBlocks":0}
+    let newjson = { "states": {}, "totalBlocks": 0 }
     data.map(currentline => {
-        if(!isNaN(currentline['Latitude (°N)']) && !isNaN(currentline['Longitude (°E)'])) {
-            if(newjson.states[currentline['State']] !== undefined) {
-                newjson.states[currentline['State']].blocks.push({
-                    link: "",//currentline['Content URL'],
-                    caption: currentline['Name'],
-                    //caption: currentline['Caption'],
-                    //date: currentline['Event Date'],
-                    //protestName: currentline['Protest Name'],
-                    //eventType: currentline['Event Type'],
-                    //eventLocation: currentline['Event Location'],
-                    //sourceURL: currentline['Source URL']
-                })
-            }
-            else {
-                newjson.states[currentline['State']] = {
-                    blocks: [{
-                      link: "", //currentline['Content URL'],
-                      caption: currentline['Name'],
-                      //date: currentline['Event Date'],
-                      //protestName: currentline['Protest Name'],
-                      //eventType: currentline['Event Type'],
-                      //eventLocation: currentline['Event Location'],
-                      //sourceURL: currentline['Source URL']
-                    }],
-                    coordinates: {
-                      latitude: currentline['Latitude (°N)'],
-                      longitude: currentline['Longitude (°E)']
-                    }
-                }
-            }
+      if (!isNaN(currentline['Latitude (°N)']) && !isNaN(currentline['Longitude (°E)'])) {
+        if (newjson.states[currentline['State']] !== undefined) {
+          newjson.states[currentline['State']].blocks.push({
+            link: "",//currentline['Content URL'],
+            caption: currentline['Name'],
+            textsearch: get_text_field(currentline)
+            //caption: currentline['Caption'],
+            //date: currentline['Event Date'],
+            //protestName: currentline['Protest Name'],
+            //eventType: currentline['Event Type'],
+            //eventLocation: currentline['Event Location'],
+            //sourceURL: currentline['Source URL']
+          })
         }
+        else {
+          newjson.states[currentline['State']] = {
+            blocks: [{
+              link: "", //currentline['Content URL'],
+              caption: currentline['Name'],
+              textsearch: get_text_field(currentline)
+              //date: currentline['Event Date'],
+              //protestName: currentline['Protest Name'],
+              //eventType: currentline['Event Type'],
+              //eventLocation: currentline['Event Location'],
+              //sourceURL: currentline['Source URL']
+            }],
+            coordinates: {
+              latitude: currentline['Latitude (°N)'],
+              longitude: currentline['Longitude (°E)']
+            }
+          }
+        }
+      }
     })
     let sortable = [];
     for (let city in newjson.states) {
-        sortable.push([city, newjson.states[city]]);
+      sortable.push([city, newjson.states[city]]);
     }
-    sortable.sort((a,b) => (a[1].blocks.length > b[1].blocks.length) ? 1 : ((b[1].blocks.length > a[1].blocks.length) ? -1 : 0));
+    sortable.sort((a, b) => (a[1].blocks.length > b[1].blocks.length) ? 1 : ((b[1].blocks.length > a[1].blocks.length) ? -1 : 0));
     let objSorted = {}
-    sortable.forEach(function(item){
-        objSorted[item[0]]=item[1]
+    sortable.forEach(function(item) {
+      objSorted[item[0]] = item[1]
     })
     newjson.states = objSorted
     newjson.totalBlocks = data.length;
@@ -115,32 +128,32 @@ function tsvJSON(tsv) {
     let longIndex = titleLine.split(/\t/).indexOf('Longitude (°E)');
     let linkIndex = titleLine.split(/\t/).indexOf('Link');
     let cityIndex = titleLine.split(/\t/).indexOf('City');
-    let newjson = {"states":{},"totalBlocks":0}
+    let newjson = { "states": {}, "totalBlocks": 0 }
 
     lines.map(line => {
-        let currentline = line.split(/\t/);
-        if(!isNaN(currentline['Latitude (°N)']) && !isNaN(currentline['Longitude (°E)'])) {
-            if(newjson.states[currentline[cityIndex]] != undefined) {
-                newjson.states[currentline[cityIndex]].blocks.push({
-                    link: currentline[linkIndex],
-                    caption: currentline[captionIndex],
-                    date: currentline[dateIndex]
-                })
-            }
-            else {
-                newjson.states[currentline[cityIndex]] = {
-                    videos: [{
-                        link: currentline[linkIndex],
-                        caption: currentline[captionIndex],
-                        date: currentline[dateIndex]
-                    }],
-                    coordinates: {
-                        latitude: currentline[latIndex],
-                        longitude: currentline[longIndex]
-                    }
-                }
-            }
+      let currentline = line.split(/\t/);
+      if (!isNaN(currentline['Latitude (°N)']) && !isNaN(currentline['Longitude (°E)'])) {
+        if (newjson.states[currentline[cityIndex]] != undefined) {
+          newjson.states[currentline[cityIndex]].blocks.push({
+            link: currentline[linkIndex],
+            caption: currentline[captionIndex],
+            date: currentline[dateIndex]
+          })
         }
+        else {
+          newjson.states[currentline[cityIndex]] = {
+            videos: [{
+              link: currentline[linkIndex],
+              caption: currentline[captionIndex],
+              date: currentline[dateIndex]
+            }],
+            coordinates: {
+              latitude: currentline[latIndex],
+              longitude: currentline[longIndex]
+            }
+          }
+        }
+      }
     })
     newjson.totalBlocks = lines.length;
     resolve(newjson);
