@@ -62,11 +62,11 @@ function processSheetData(tabletop) {
   if (tabletop.models[approvedSheetName]) {
     let data = tabletop.models[approvedSheetName].elements;
     console.log(data[0])
-    let newjson = { "states": {}, "totalBlocks": 0 }
+    let newjson = { "locations": {}, "totalBlocks": 0 }
     data.map(currentline => {
       if (!isNaN(currentline['Latitude (°N)']) && !isNaN(currentline['Longitude (°E)'])) {
-        if (newjson.states[currentline['State']] !== undefined) {
-          newjson.states[currentline['State']].blocks.push({
+        if (newjson.locations[currentline['State']] !== undefined) {
+          newjson.locations[currentline['State']].blocks.push({
             link: "",//currentline['Content URL'],
             caption: currentline['Name'],
             textsearch: get_text_field(currentline)
@@ -79,7 +79,7 @@ function processSheetData(tabletop) {
           })
         }
         else {
-          newjson.states[currentline['State']] = {
+          newjson.locations[currentline['State']] = {
             blocks: [{
               link: "", //currentline['Content URL'],
               caption: currentline['Name'],
@@ -99,15 +99,15 @@ function processSheetData(tabletop) {
       }
     })
     let sortable = [];
-    for (let city in newjson.states) {
-      sortable.push([city, newjson.states[city]]);
+    for (let city in newjson.locations) {
+      sortable.push([city, newjson.locations[city]]);
     }
     sortable.sort((a, b) => (a[1].blocks.length > b[1].blocks.length) ? 1 : ((b[1].blocks.length > a[1].blocks.length) ? -1 : 0));
     let objSorted = {}
     sortable.forEach(function(item) {
       objSorted[item[0]] = item[1]
     })
-    newjson.states = objSorted
+    newjson.locations = objSorted
     newjson.totalBlocks = data.length;
     return (newjson)
   }
@@ -128,20 +128,20 @@ function tsvJSON(tsv) {
     let longIndex = titleLine.split(/\t/).indexOf('Longitude (°E)');
     let linkIndex = titleLine.split(/\t/).indexOf('Link');
     let cityIndex = titleLine.split(/\t/).indexOf('City');
-    let newjson = { "states": {}, "totalBlocks": 0 }
+    let newjson = { "locations": {}, "totalBlocks": 0 }
 
     lines.map(line => {
       let currentline = line.split(/\t/);
       if (!isNaN(currentline['Latitude (°N)']) && !isNaN(currentline['Longitude (°E)'])) {
-        if (newjson.states[currentline[cityIndex]] != undefined) {
-          newjson.states[currentline[cityIndex]].blocks.push({
+        if (newjson.locations[currentline[cityIndex]] != undefined) {
+          newjson.locations[currentline[cityIndex]].blocks.push({
             link: currentline[linkIndex],
             caption: currentline[captionIndex],
             date: currentline[dateIndex]
           })
         }
         else {
-          newjson.states[currentline[cityIndex]] = {
+          newjson.locations[currentline[cityIndex]] = {
             videos: [{
               link: currentline[linkIndex],
               caption: currentline[captionIndex],
