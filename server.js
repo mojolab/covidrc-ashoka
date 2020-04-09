@@ -74,7 +74,7 @@ function processSheetData(tabletop) {
                     contact: currentline['contact'],
                     type:currentline['Type'].toLowerCase(),
                     Type:currentline['Type'],
-                    textsearch: get_text_field(currentline)
+                    textsearch: get_text_field(currentline).toLowerCase()
                     //caption: currentline['Caption'],
                     //date: currentline['Event Date'],
                     //protestName: currentline['Protest Name'],
@@ -93,7 +93,7 @@ function processSheetData(tabletop) {
                       contact: currentline['contact'],
                       type:currentline['Type'].toLowerCase(),
                       Type:currentline['Type'],
-                      textsearch: get_text_field(currentline)
+                      textsearch: get_text_field(currentline).toLowerCase()
                       //date: currentline['Event Date'],
                       //protestName: currentline['Protest Name'],
                       //eventType: currentline['Event Type'],
