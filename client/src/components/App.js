@@ -3,11 +3,33 @@ import Firebase from 'firebase';
 import {PageView, initGA} from './Tracking';
 import {MapLayer} from './MapLayer.js';
 import {CityDetailView} from './CityDetailView.js';
+
 //import {SubmitForm} from './SubmitForm.js';
 //import {IntroScreen} from './IntroScreen';
 //import {About} from './About'
 import {SecNav} from './SecNav.js'
 import './CSS/App.css'
+
+
+function get_filter(datajson,searchkey){
+  var datajson2={"locations":{},totalBlocks:0}
+  Object.keys(datajson.locations).forEach(function(key){
+    datajson2.locations[key]={"blocks":[], "coordinates":datajson.locations[key].coordinates}
+    datajson2.locations[key].blocks = datajson.locations[key].blocks.filter(function(item){
+      return item.textsearch.includes(searchkey)
+    })
+  })
+  var count=0
+  Object.keys(datajson2.locations).forEach(function(state){
+    count=count+datajson2.locations[state].blocks.length
+    if(datajson2.locations[state].blocks.length==0){
+      delete datajson2.locations[state]
+    }
+  })
+  datajson2.totalBlocks=count
+  return datajson2
+}
+
 
 const fetchJSON = async() => {
   const res = await fetch('/getBlockData');
@@ -33,7 +55,8 @@ function App() {
   const [totalCities, setTotalCities] = useState([]);
   const [isAboutOpen, setIsAboutOpen] = useState(false);
   const desktopSize = 1024;
-
+  const [searchQuery,setSearchQuery] = useState("");
+  const [result, setResult] = useState({});
   useEffect(()=> {
     Firebase.initializeApp(config);
     initGA(process.env.REACT_APP_GA_TRACKING_ID);
@@ -41,6 +64,8 @@ function App() {
     fetchJSON()
       .then(res => {
         setVideoData(res.locations);
+        setResult(res)
+
         let citiesArray = Object.keys(res.locations);
         let urlLocation = window.location.href
         let hashCity = urlLocation.split('#')[1];
@@ -84,9 +109,23 @@ function App() {
     setIsAboutOpen(false);
   }
 
+  //const onChangeSearch = query => setVideoData(videoData);
+  const onChangeSearch = item => {
+    console.log(item.target.value)
+    var filterresult=get_filter(result,item.target.value)
+    setVideoData(filterresult.locations)
+    setTotalCities(Object.keys(filterresult.locations))
+    setSelectedCity(null)
+    console.log(videoData)
+  }
+
   return (
     <div className="app">
-    
+      <div className="searchbar">
+      <form>
+        Search by text: <input type="text" name="searchQuery" onChange={onChangeSearch.bind(searchQuery)}></input>
+      </form>
+      </div>
       <SecNav handleAboutClicked = {handleAboutClicked}/>
       <MapLayer className="mapLayer" onMarkerClick={onMarkerClick} videoData={videoData} totalCities={totalCities} desktopSize={desktopSize}/>
       {selectedCity && <CityDetailView selectedCity={selectedCity} videoData={videoData} onCityDetailClose={onCityDetailClose} desktopSize={desktopSize} />}

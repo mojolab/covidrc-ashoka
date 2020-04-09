@@ -9,6 +9,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 const datasrc = "SHEET" // "TSV" or "SHEET"
 const approvedSheetName = 'dataviz';
+const textfields = ['Name', 'Location']
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
   extended: true
@@ -46,6 +47,16 @@ function getSheetData() {
   })
 }
 
+
+
+function get_text_field(item) {
+  var text="";
+  textfields.forEach(function(key){
+    text=text+" "+item[key]
+  });
+  return text;
+}
+
 //Cleaning up the sheet data
 function processSheetData(tabletop) {
   if(tabletop.models[approvedSheetName]){
@@ -62,7 +73,8 @@ function processSheetData(tabletop) {
                     organization: currentline['Organization'],
                     contact: currentline['contact'],
                     type:currentline['Type'].toLowerCase(),
-                    Type:currentline['Type']
+                    Type:currentline['Type'],
+                    textsearch: get_text_field(currentline)
                     //caption: currentline['Caption'],
                     //date: currentline['Event Date'],
                     //protestName: currentline['Protest Name'],
@@ -80,7 +92,8 @@ function processSheetData(tabletop) {
                       organization: currentline['Organization'],
                       contact: currentline['contact'],
                       type:currentline['Type'].toLowerCase(),
-                      Type:currentline['Type']
+                      Type:currentline['Type'],
+                      textsearch: get_text_field(currentline)
                       //date: currentline['Event Date'],
                       //protestName: currentline['Protest Name'],
                       //eventType: currentline['Event Type'],
@@ -125,32 +138,32 @@ function tsvJSON(tsv) {
     let longIndex = titleLine.split(/\t/).indexOf('Longitude (°E)');
     let linkIndex = titleLine.split(/\t/).indexOf('Link');
     let cityIndex = titleLine.split(/\t/).indexOf('City');
-    let newjson = {"states":{},"totalBlocks":0}
+    let newjson = { "locations": {}, "totalBlocks": 0 }
 
     lines.map(line => {
-        let currentline = line.split(/\t/);
-        if(!isNaN(currentline['Latitude (°N)']) && !isNaN(currentline['Longitude (°E)'])) {
-            if(newjson.locations[currentline[cityIndex]] != undefined) {
-                newjson.locations[currentline[cityIndex]].blocks.push({
-                    link: currentline[linkIndex],
-                    caption: currentline[captionIndex],
-                    date: currentline[dateIndex]
-                })
-            }
-            else {
-                newjson.locations[currentline[cityIndex]] = {
-                    videos: [{
-                        link: currentline[linkIndex],
-                        caption: currentline[captionIndex],
-                        date: currentline[dateIndex]
-                    }],
-                    coordinates: {
-                        latitude: currentline[latIndex],
-                        longitude: currentline[longIndex]
-                    }
-                }
-            }
+      let currentline = line.split(/\t/);
+      if (!isNaN(currentline['Latitude (°N)']) && !isNaN(currentline['Longitude (°E)'])) {
+        if (newjson.locations[currentline[cityIndex]] != undefined) {
+          newjson.locations[currentline[cityIndex]].blocks.push({
+            link: currentline[linkIndex],
+            caption: currentline[captionIndex],
+            date: currentline[dateIndex]
+          })
         }
+        else {
+          newjson.locations[currentline[cityIndex]] = {
+            videos: [{
+              link: currentline[linkIndex],
+              caption: currentline[captionIndex],
+              date: currentline[dateIndex]
+            }],
+            coordinates: {
+              latitude: currentline[latIndex],
+              longitude: currentline[longIndex]
+            }
+          }
+        }
+      }
     })
     newjson.totalBlocks = lines.length;
     resolve(newjson);
