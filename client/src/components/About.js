@@ -52,14 +52,13 @@ export function About(props) {
                     onScroll = {(e) => {scrollValue.set(e.nativeEvent.target.scrollTop)}}
                 >
                     <div className="aboutContentHeader">
-                        <h1>Somethings</h1>
+                        <h1>MojoMaps - Node Edition</h1>
                         <button className="close_btn" onClick={() => handleAboutClose()}><img src={close}  alt="close button" /></button>
                     </div>
                     <div className="aboutContentBody">
                         <p>
-                            <span style={{fontWeight: "bold"}}>Yaba Daba Doo! </span>
-                          Some stuff!
-                                          </p>
+                            <span style={{fontWeight: "bold"}}>Maintainers </span>
+                        </p>
                         <a href="https://twitter.com/hackergram" className="aboutCardContainer" target="_blank" onClick={()=> Event("UserAction", "Navigated to Twitter", window.innerWidth > desktopSize ? "DESKTOP": "MOBILE")}>
                             <motion.div
                                 className="aboutCard"
@@ -68,12 +67,27 @@ export function About(props) {
                             >
                                 <img src={twitterlogo}/>
                                 <div>
-                                    <p className="smalltext">Reach out to us:</p>
                                     <p className="socialLink">@hackergram</p>
+
                                 </div>
                             </motion.div>
                         </a>
-                        <a href="https://github.com/hackergram/webappdevtest" className="aboutCardContainer" target="_blank" onClick={()=> Event("UserAction", "Navigated to Github", window.innerWidth > desktopSize ? "DESKTOP": "MOBILE")}>
+                        <a href="https://twitter.com/themojolab" className="aboutCardContainer" target="_blank" onClick={()=> Event("UserAction", "Navigated to Twitter", window.innerWidth > desktopSize ? "DESKTOP": "MOBILE")}>
+                            <motion.div
+                                className="aboutCard"
+                                initial={{scale: 1}}
+                                whileHover = {{scale: 1.03}}
+                            >
+                                <img src={twitterlogo}/>
+                                <div>
+                                    <p className="socialLink">@themojolab</p>
+
+                                </div>
+                            </motion.div>
+                        </a>
+
+
+                        <a href="https://github.com/mojolab/mojomaps-node" className="aboutCardContainer" target="_blank" onClick={()=> Event("UserAction", "Navigated to Github", window.innerWidth > desktopSize ? "DESKTOP": "MOBILE")}>
                             <motion.div
                                 className="aboutCard"
                                 initial={{scale: 1}}
