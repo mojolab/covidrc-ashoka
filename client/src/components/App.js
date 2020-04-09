@@ -15,7 +15,7 @@ function get_filter(datajson,searchkey){
   Object.keys(datajson.locations).forEach(function(key){
     datajson2.locations[key]={"blocks":[], "coordinates":datajson.locations[key].coordinates}
     datajson2.locations[key].blocks = datajson.locations[key].blocks.filter(function(item){
-      return item.textsearch.includes(searchkey)
+      return item.textsearch.includes(searchkey.toLowerCase())
     })
   })
   var count=0

@@ -69,7 +69,7 @@ function processSheetData(tabletop) {
           newjson.locations[currentline['Location']].blocks.push({
             link: "",//currentline['Content URL'],
             caption: currentline['Name'],
-            textsearch: get_text_field(currentline)
+            textsearch: get_text_field(currentline).toLowerCase()
             //caption: currentline['Caption'],
             //date: currentline['Event Date'],
             //protestName: currentline['Protest Name'],
@@ -83,7 +83,7 @@ function processSheetData(tabletop) {
             blocks: [{
               link: "", //currentline['Content URL'],
               caption: currentline['Name'],
-              textsearch: get_text_field(currentline)
+              textsearch: get_text_field(currentline).toLowerCase()
               //date: currentline['Event Date'],
               //protestName: currentline['Protest Name'],
               //eventType: currentline['Event Type'],
