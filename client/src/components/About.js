@@ -52,9 +52,11 @@ export function About(props) {
                     onScroll = {(e) => {scrollValue.set(e.nativeEvent.target.scrollTop)}}
                 >
                     <div className="aboutContentHeader">
-                        <h1>MojoMaps - Node Edition</h1>
+                        <h1>COVID-19 Resource Center</h1>
                         <button className="close_btn" onClick={() => handleAboutClose()}><img src={close}  alt="close button" /></button>
                     </div>
+                    <h2>Compiled and Maintained by Ashoka India Fellows</h2>
+                    
                     <div className="aboutContentBody">
                         <p>
                             <span style={{fontWeight: "bold"}}>Maintainers </span>
@@ -87,7 +89,7 @@ export function About(props) {
                         </a>
 
 
-                        <a href="https://github.com/mojolab/mojomaps-node" className="aboutCardContainer" target="_blank" onClick={()=> Event("UserAction", "Navigated to Github", window.innerWidth > desktopSize ? "DESKTOP": "MOBILE")}>
+                        <a href="https://github.com/mojolab/covidrc-ashoka" className="aboutCardContainer" target="_blank" onClick={()=> Event("UserAction", "Navigated to Github", window.innerWidth > desktopSize ? "DESKTOP": "MOBILE")}>
                             <motion.div
                                 className="aboutCard"
                                 initial={{scale: 1}}
