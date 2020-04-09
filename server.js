@@ -9,7 +9,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 const datasrc = "SHEET" // "TSV" or "SHEET"
 const approvedSheetName = 'dataviz';
-const textfields = ['Name', 'Location']
+const textfields = ['Name', 'Location', "Category", "Type", "Fellow", "Organization"]
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
   extended: true
