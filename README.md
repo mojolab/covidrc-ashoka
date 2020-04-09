@@ -10,8 +10,8 @@ The app is a modification of prior work by [karan100010](https://github.com/kara
 1. Clone and run the following to start the express server:
 
 ```
-    git clone https://github.com/hackergram/webappdevtest
-    cd webappdevtest
+    git clone https://github.com/mojolab/covidrc-ashoka
+    cd covidrc-ashoka
     npm install
     node server.js
 ```
