@@ -50,6 +50,36 @@ export function MapLayer(props) {
             onViewportChange = {viewport => {setViewport(viewport)}}
             mapStyle="mapbox://styles/hackergram/ck8ioxu2f1nss1iqdl9zxwymd"
         >
+
+        <Marker
+            key="53"
+            latitude = {20.000}
+            longitude ={80.000}
+            offsetLeft={-24}
+            offsetTop={-24}
+        >
+        <button className='marker_btn'>
+        <motion.div
+            className="marker_txt_2"
+            style = {{
+                width: `calc(1rem + 0.5*10rem)`,
+                height: `calc(1rem + 0.5*10rem)`,
+                lineHeight: `calc(1rem + 0.5rem)`
+            }}
+            initial = {{scale: 1}}
+            animate= {{scale: 1.05}}
+            transition = {{
+                yoyo: Infinity,
+                ease: 'easeOut',
+                duration: 0.5
+            }}
+            ><p>COVID COUNT: </p>
+        </motion.div>
+         <p style={{color: '#908562'}}>Hello Honey</p>
+        </button>
+        </Marker>
+
+
             {totalCities.map((city, index) => {
                 return (
                     <Marker
@@ -81,6 +111,7 @@ export function MapLayer(props) {
                     </Marker>
                 )})
             }
+
         </ReactMapGL>
         </div>
     )
