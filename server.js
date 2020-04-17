@@ -15,8 +15,9 @@ app.use(bodyParser.urlencoded({
   extended: true
 }));
 const publicSpreadsheetUrl = "https://docs.google.com/spreadsheets/d/1KZtJDrmyam3LW4cK59ECbL7UKDzvQgWzaJAfyNK9XBI/edit?usp=sharing";
-
+const overlay1data = "https://docs.google.com/spreadsheets/d/1IMEwEzT3FwMNCwHpdyotDSZIF1-icQnd9ET7C53v2Z0/edit#gid=0"
 // Datasource check with datasrc var
+
 app.get('/getBlockData', async (req, res) => {
   if (datasrc === "TSV") {
     let rawtsv = fs.readFileSync('./RawData/VideoData.tsv', 'utf8')
@@ -34,6 +35,28 @@ app.get('/getBlockData', async (req, res) => {
 
 })
 
+app.get('/getCoronaData', async (req, res) => {
+    locationdata = await getLocationSheetData()
+    console.log(locationdata)
+    let revisedJSON = await getCoronaSheetData();
+    console.log(revisedJSON, locationdata)
+    Object.keys(locationdata.locations).forEach(function(state){
+      locationdata.locations[state].coronacount=Number(revisedJSON[state.toUpperCase()])
+    })
+    console.log("Sending Sheet Response")
+    res.send(locationdata)
+
+
+})
+
+app.get('/getLocationData', async (req, res) => {
+
+    let revisedJSON = await getLocationSheetData();
+    console.log("Sending Sheet Response")
+    res.send(revisedJSON)
+
+
+})
 // Pulling from Google Sheets with Tabletop
 function getSheetData() {
   return new Promise((resolve) => {
@@ -46,6 +69,33 @@ function getSheetData() {
     })
   })
 }
+
+function getLocationSheetData() {
+  return new Promise((resolve) => {
+    Tabletop.init({
+      key: publicSpreadsheetUrl,
+      callback: function(data, tabletop) {
+        resolve(processLocationSheetData(tabletop));
+      },
+      simpleSheet: true
+    })
+  })
+}
+
+
+// Pulling from Google Sheets with Tabletop
+function getCoronaSheetData() {
+  return new Promise((resolve) => {
+    Tabletop.init({
+      key: overlay1data,
+      callback: function(data, tabletop) {
+        resolve(processCoronaSheetData(tabletop));
+      },
+      simpleSheet: false
+    })
+  })
+}
+
 
 function get_text_field(item) {
   var text="";
@@ -117,6 +167,52 @@ function processSheetData(tabletop) {
   }
 }
 
+//Cleaning up the sheet data
+function processCoronaSheetData(tabletop) {
+  if (tabletop.models["Sheet1"]) {
+    let data = tabletop.models["Sheet1"].toArray();
+    console.log(data)
+    keys=Object.keys(data[0])
+    console.log(keys)
+    let newjson = {}
+    data.map(currentline => {
+      state=currentline[1]
+      coronacases=currentline[2]
+      newjson[state]=coronacases
+
+    })
+    console.log(newjson)
+    return (newjson)
+  }
+  else {
+    console.log(`No sheet called ${approvedSheetName}`)
+    return (`No sheet is called ${approvedSheetName}`)
+  }
+}
+
+//Cleaning up the sheet data
+function processLocationSheetData(tabletop) {
+  if (tabletop.models["geolocation"]) {
+    let data = tabletop.models["geolocation"].elements;
+    console.log(data)
+    keys=Object.keys(data[0])
+    console.log(keys)
+    let newjson = {"locations":{}}
+    data.map(currentline => {
+      state=currentline['state']
+      lat=currentline['lat']
+      lng=currentline['lng']
+      newjson.locations[state]={"coordinates":{"latitude":lat, "longitude":lng}}
+
+    })
+    console.log(newjson)
+    return (newjson)
+  }
+  else {
+    console.log(`No sheet called ${approvedSheetName}`)
+    return (`No sheet is called ${approvedSheetName}`)
+  }
+}
 //Cleaning up the TSV data
 function tsvJSON(tsv) {
   return new Promise((resolve, reject) => {

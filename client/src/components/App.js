@@ -31,10 +31,15 @@ function get_filter(datajson,searchkey){
 
 const fetchJSON = async() => {
   const res = await fetch('/getBlockData');
-  const body = await res.json();
-  if(res.status !== 200) throw Error(body.message)
-  return body;
+  const videoData = await res.json();
+  if(res.status !== 200) throw Error(videoData.message)
+  const res2 = await fetch('/getCoronaData');
+  const coronaData = await res2.json();
+  if(res2.status !== 200) throw Error(coronaData.message)
+  return {"videoData":videoData, "coronaData": coronaData};
 }
+
+
 
 const config = {
   apiKey: process.env.REACT_APP_API_KEY,
@@ -51,6 +56,8 @@ function App() {
   const [selectedCity, setSelectedCity] = useState(null);
   const [videoData, setVideoData] = useState({});
   const [totalCities, setTotalCities] = useState([]);
+  const [coronaData, setCoronaData] = useState({});
+
   const [isAboutOpen, setIsAboutOpen] = useState(false);
   const desktopSize = 1024;
   const [searchQuery,setSearchQuery] = useState("");
@@ -61,9 +68,11 @@ function App() {
     PageView('Intro')
     fetchJSON()
       .then(res => {
-        setVideoData(res.locations);
-        setResult(res)
-        let citiesArray = Object.keys(res.locations);
+        console.log(res)
+        setCoronaData(res.coronaData.locations)
+        setVideoData(res.videoData.locations);
+        setResult(res.videoData)
+        let citiesArray = Object.keys(res.videoData.locations);
         let urlLocation = window.location.href
         let hashCity = urlLocation.split('#')[1];
         if(hashCity !== undefined && hashCity.length>1) {
@@ -73,8 +82,12 @@ function App() {
           }
         }
         setTotalCities(citiesArray);
+        ;
       })
       .catch(err => console.log(err))
+
+
+
   },[])
 
   const onNewLinkSubmit = (newData) => {
@@ -126,8 +139,8 @@ function App() {
       {isAboutOpen && <About handleAboutClose={handleAboutClose} desktopSize={desktopSize} />}
 
       <SecNav handleAboutClicked = {handleAboutClicked}/>
-      <MapLayer className="mapLayer" onMarkerClick={onMarkerClick} videoData={videoData} totalCities={totalCities} desktopSize={desktopSize}/>
-      {selectedCity && <CityDetailView selectedCity={selectedCity} videoData={videoData} onCityDetailClose={onCityDetailClose} desktopSize={desktopSize} />}
+      <MapLayer className="mapLayer" onMarkerClick={onMarkerClick} videoData={videoData} totalCities={totalCities} coronaData={coronaData} desktopSize={desktopSize}/>
+      {selectedCity && <CityDetailView selectedCity={selectedCity} videoData={videoData} coronaData={coronaData} onCityDetailClose={onCityDetailClose} desktopSize={desktopSize} />}
       </div>)
 }
 

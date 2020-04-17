@@ -6,7 +6,8 @@ import {PageView } from "./Tracking";
 export function MapLayer(props) {
 
     let clickedOnMarker = false;
-    const {onMarkerClick, videoData, totalCities, desktopSize} = props;
+    const {onMarkerClick, videoData, totalCities, coronaData, desktopSize} = props;
+
     const [viewport, setViewport] = useState({
         latitude: 21.2787,
         longitude: 81.8661,
@@ -51,36 +52,46 @@ export function MapLayer(props) {
             mapStyle="mapbox://styles/hackergram/ck8ioxu2f1nss1iqdl9zxwymd"
         >
 
-        <Marker
-            key="53"
-            latitude = {20.000}
-            longitude ={80.000}
-            offsetLeft={-24}
-            offsetTop={-24}
-        >
-        <button className='marker_btn'>
-        <motion.div
-            className="marker_txt_2"
-            style = {{
-                width: `calc(1rem + 0.5*10rem)`,
-                height: `calc(1rem + 0.5*10rem)`,
-                lineHeight: `calc(1rem + 0.5rem)`
-            }}
-            initial = {{scale: 1}}
-            animate= {{scale: 1.05}}
-            transition = {{
-                yoyo: Infinity,
-                ease: 'easeOut',
-                duration: 0.5
-            }}
-            ><p>COVID COUNT: </p>
-        </motion.div>
-         <p style={{color: '#908562'}}>Hello Honey</p>
-        </button>
-        </Marker>
+        {totalCities.map((city, index) => {
+            console.log(city)
+            console.log(coronaData)
+            return (
+                <Marker
+                    key={index}
+                    latitude = {Number(coronaData[city].coordinates.latitude)}
+                    longitude = {Number(coronaData[city].coordinates.longitude)}
+                    offsetLeft={-24*coronaData[city].coronacount/1000}
+                    offsetTop={-24*coronaData[city].coronacount/1000}
+                >
+                    <button className='marker_btn' onClick={e => {onMarkerClick(e, city); clickedOnMarker=true; PageView(city)}}>
+                        <motion.div
+                            className="marker_txt_2"
+                            style = {{
+                                width: `calc(1rem + 3 * ${String(coronaData[city].coronacount/1000)}rem)`,
+                                height: `calc(1rem + 3 * ${String(coronaData[city].coronacount/1000)}rem)`,
+                                opacity: `calc(0.05 + 0.5 * ${String(coronaData[city].coronacount/10000)})`,
+
+                                lineHeight: `calc(1rem + 3 * ${String(coronaData[city].coronacount/1000)}rem)`
+
+                            }}
+                            initial = {{scale: 1}}
+                            animate= {{scale: 1.05}}
+                            transition = {{
+                                yoyo: Infinity,
+                                ease: 'easeOut',
+                                duration: 0.5
+                            }}
+                            ><p>{isZoomFriendly(coronaData[city].coronacount) && coronaData[city].coronacount}</p>
+                        </motion.div>
+
+                    </button>
+                </Marker>
+            )})
+        }
 
 
             {totalCities.map((city, index) => {
+              console.log(videoData, coronaData)
                 return (
                     <Marker
                         key={index}
