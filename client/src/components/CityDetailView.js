@@ -5,7 +5,7 @@ import InstagramEmbed from 'react-instagram-embed';
 import close from '../icons/close.svg'
 
 export function CityDetailView(props) {
-    const {selectedCity, videoData, onCityDetailClose, desktopSize } = props;
+    const {selectedCity, videoData, coronaData, onCityDetailClose, desktopSize } = props;
     let currentScrollValue = useMotionValue(0);
     let touchStart = 0;
     let touchEnd = 0;
@@ -95,6 +95,7 @@ export function CityDetailView(props) {
                     <button className="close_btn" onClick={(e) => onCityDetailClose(e)}>
                         <img src={close} alt="close icon" />
                     </button>
+
                 </motion.div>
                 <motion.div
                     className="cityDetailView_videoList"
@@ -103,6 +104,9 @@ export function CityDetailView(props) {
                     animate={bodyAnimControls}
 
                 >
+                <div>
+                <h2>Corona Cases: {String(coronaData[selectedCity].coronacount)}</h2>
+                </div>
                     {videoData[selectedCity].blocks.slice(0).reverse().map((videoObj, index) => {
                         if(videoObj.link.indexOf('twitter.com') !== -1) {
                             let id = videoObj.link.split(/\/?\//)[4].split('?')[0];
