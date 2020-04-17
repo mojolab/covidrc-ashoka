@@ -83,6 +83,7 @@ function App() {
             setSelectedCity(formattedHashCity);
           }
         }
+        
         setTotalCities(citiesArray);
         ;
       })

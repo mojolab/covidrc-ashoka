@@ -105,7 +105,7 @@ export function CityDetailView(props) {
 
                 >
                 <div>
-                <h2>Corona Cases: {String(coronaData[selectedCity].coronacount)}</h2>
+                <h2 className="corona">Corona Cases: {String(coronaData[selectedCity].coronacount)}</h2>
                 </div>
                     {videoData[selectedCity].blocks.slice(0).reverse().map((videoObj, index) => {
                         if(videoObj.link.indexOf('twitter.com') !== -1) {

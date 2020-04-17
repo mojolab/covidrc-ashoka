@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
   extended: true
 }));
-const publicSpreadsheetUrl = "https://docs.google.com/spreadsheets/d/1KZtJDrmyam3LW4cK59ECbL7UKDzvQgWzaJAfyNK9XBI/edit?usp=sharing";
+const publicSpreadsheetUrl = "https://docs.google.com/spreadsheets/d/1enkCUjlHP_-QMArqPA_h4FPjJlWHEXJrwetCXJ6yg9Y/edit?usp=sharing";
 const overlay1data = "https://docs.google.com/spreadsheets/d/1IMEwEzT3FwMNCwHpdyotDSZIF1-icQnd9ET7C53v2Z0/edit#gid=0"
 // Datasource check with datasrc var
 
@@ -203,11 +203,9 @@ function processLocationSheetData(tabletop) {
   if (tabletop.models["geolocation"]) {
     let data = tabletop.models["geolocation"].elements;
     console.log(data)
-    keys=Object.keys(data[0])
-    console.log(keys)
     let newjson = {"locations":{}}
     data.map(currentline => {
-      state=currentline['state']
+      state=currentline['location']
       lat=currentline['lat']
       lng=currentline['lng']
       newjson.locations[state]={"coordinates":{"latitude":lat, "longitude":lng}}

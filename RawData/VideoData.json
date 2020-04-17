@@ -1,100 +1,26 @@
 {
   "locations": {
-    "Uttarakhand": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " hygiene kits and dry ration for marginalised families, old age homes, and orphanages uttarakhand na offer manu gupta seeds"
-        }
-      ],
-      "coordinates": {
-        "latitude": "30.0668",
-        "longitude": "79.0193"
-      }
-    },
-    "Telangana": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "Consultation with voluntary doctors",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " consultation with voluntary doctors telangana  request mukteshwari bosco healing fields foundation"
-        },
-        {
-          "link": "",
-          "caption": "Consultationw ith voluntary doctors",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " consultationw ith voluntary doctors telangana capacity building support request mukteshwari bosco healing fields foundation"
-        }
-      ],
-      "coordinates": {
-        "latitude": "18.1124",
-        "longitude": "79.0193"
-      }
-    },
-    "Gujarat": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "online curriculum",
-          "fellowname": "Kiran Bir Sethi",
-          "organization": "Riverside School and  Design for Change",
-          "contact": "kiranbirsethi@gmail.com ",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " online curriculum gujarat capacity building support offer kiran bir sethi riverside school and  design for change"
-        },
-        {
-          "link": "",
-          "caption": "open source material from DFC",
-          "fellowname": "Kiran Bir Sethi",
-          "organization": "Riverside School and  Design for Change",
-          "contact": "kiranbirsethi@gmail.com ",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " open source material from dfc gujarat capacity building support offer kiran bir sethi riverside school and  design for change"
-        }
-      ],
-      "coordinates": {
-        "latitude": "22.2587",
-        "longitude": "71.1924"
-      }
-    },
     "Tripura": {
       "blocks": [
         {
           "link": "",
-          "caption": "Herbal Hand wash , Soap ",
+          "caption": "Sanitizing products",
           "fellowname": "Sanjeev Kumar ",
           "organization": "The Goat trust ",
           "contact": "thegoattrust@gmail.com ",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " herbal hand wash , soap  tripura sanitizing products offer sanjeev kumar  the goat trust "
+          "textsearch": " sanitizing products tripura sanitizing products offer sanjeev kumar  the goat trust "
         },
         {
           "link": "",
-          "caption": "Immunity enhancer Goat milk + Moringa ",
+          "caption": "Immunity enhancing natural food products",
           "fellowname": "Sanjeev Kumar ",
           "organization": "The Goat trust ",
           "contact": "thegoattrust@gmail.com ",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " immunity enhancer goat milk + moringa  tripura food  offer sanjeev kumar  the goat trust "
+          "textsearch": " immunity enhancing natural food products tripura food  offer sanjeev kumar  the goat trust "
         },
         {
           "link": "",
@@ -126,13 +52,13 @@
         },
         {
           "link": "",
-          "caption": "Providing web services globally",
+          "caption": "Web service support",
           "fellowname": "Anup Akkihal",
           "organization": "Logistimo",
           "contact": "anup@logistimo.com",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " providing web services globally washington technology offer anup akkihal logistimo"
+          "textsearch": " web service support washington technology offer anup akkihal logistimo"
         },
         {
           "link": "",
@@ -150,137 +76,117 @@
         "longitude": "77.1025"
       }
     },
-    "Chattisgarh": {
+    "Gujarat": {
       "blocks": [
         {
           "link": "",
-          "caption": "Communications strategy for govt",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org",
+          "caption": "Capacity building support through online curriculum",
+          "fellowname": "Kiran Bir Sethi",
+          "organization": "Riverside School and  Design for Change",
+          "contact": "kiranbirsethi@gmail.com ",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications strategy for govt chattisgarh  offer jessica mayberry video volunteers"
+          "textsearch": " capacity building support through online curriculum gujarat capacity building support offer kiran bir sethi riverside school and  design for change"
         },
         {
           "link": "",
-          "caption": "Communications training",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org",
+          "caption": "Open sourced materials from Design for Change for capacity building",
+          "fellowname": "Kiran Bir Sethi",
+          "organization": "Riverside School and  Design for Change",
+          "contact": "kiranbirsethi@gmail.com ",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications training chattisgarh  offer jessica mayberry video volunteers"
+          "textsearch": " open sourced materials from design for change for capacity building gujarat capacity building support offer kiran bir sethi riverside school and  design for change"
         },
         {
           "link": "",
-          "caption": "video production",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org",
+          "caption": "Post rehabilation relief (water)",
+          "fellowname": "Biplabketan Paul",
+          "organization": "Bhungroo Vikas Pvt. Ltd.",
+          "contact": "biplab@naireetaservices.com",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " video production chattisgarh  offer jessica mayberry video volunteers"
-        },
-        {
-          "link": "",
-          "caption": "access to state governments, , experts on public health in villages",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " access to state governments, , experts on public health in villages chattisgarh  request jessica mayberry video volunteers"
+          "textsearch": " post rehabilation relief (water) gujarat post rehabilitation relief offer biplabketan paul bhungroo vikas pvt. ltd."
         }
       ],
       "coordinates": {
-        "latitude": "21.2787",
-        "longitude": "81.8661"
+        "latitude": "22.2587",
+        "longitude": "71.1924"
       }
     },
-    "Madhya Pradesh": {
+    "Andhra Pradesh": {
       "blocks": [
         {
           "link": "",
-          "caption": "Communications strategy for govt",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org",
+          "caption": "Post rehabilation relief (water)",
+          "fellowname": "Biplabketan Paul",
+          "organization": "Bhungroo Vikas Pvt. Ltd.",
+          "contact": "biplab@naireetaservices.com",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications strategy for govt madhya pradesh  offer jessica mayberry video volunteers"
+          "textsearch": " post rehabilation relief (water) andhra pradesh post rehabilitation relief offer biplabketan paul bhungroo vikas pvt. ltd."
         },
         {
           "link": "",
-          "caption": "Communications training",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " communications training madhya pradesh  offer jessica mayberry video volunteers"
-        },
-        {
-          "link": "",
-          "caption": "video production",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " video production madhya pradesh  offer jessica mayberry video volunteers"
-        },
-        {
-          "link": "",
-          "caption": "access to state governments, , experts on public health in villages",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org",
+          "caption": "Livelihood planning support (fisherfolk)",
+          "fellowname": "Neelkanth Mishra",
+          "organization": "Jaljeevika",
+          "contact": "neelkanth.mishra@jaljeevika.org",
           "type": "request",
           "Type": "Request",
-          "textsearch": " access to state governments, , experts on public health in villages madhya pradesh  request jessica mayberry video volunteers"
+          "textsearch": " livelihood planning support (fisherfolk) andhra pradesh livelihood support request neelkanth mishra jaljeevika"
+        },
+        {
+          "link": "",
+          "caption": "Training support for fishery livelihood",
+          "fellowname": "Neelkanth Mishra",
+          "organization": "Jaljeevika",
+          "contact": "neelkanth.mishra@jaljeevika.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " training support for fishery livelihood andhra pradesh  offer neelkanth mishra jaljeevika"
         }
       ],
       "coordinates": {
-        "latitude": "22.9734",
-        "longitude": "78.6569"
+        "latitude": "15.9129",
+        "longitude": "79.74"
       }
     },
     "West Bengal": {
       "blocks": [
         {
           "link": "",
-          "caption": "Communications strategy for govt",
+          "caption": "Resources for local governments",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications strategy for govt west bengal  offer jessica mayberry video volunteers"
+          "textsearch": " resources for local governments west bengal  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "Communications training",
+          "caption": "Capacity building support through training of volunteers on documenting COVID",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications training west bengal  offer jessica mayberry video volunteers"
+          "textsearch": " capacity building support through training of volunteers on documenting covid west bengal  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "video production",
+          "caption": "Video production (interviewing village leaders about the crisis)",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " video production west bengal  offer jessica mayberry video volunteers"
+          "textsearch": " video production (interviewing village leaders about the crisis) west bengal  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "access to state governments, , experts on public health in villages",
+          "caption": "Access to state governments, , experts on public health in villages",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
@@ -292,6 +198,160 @@
       "coordinates": {
         "latitude": "22.9868",
         "longitude": "87.855"
+      }
+    },
+    "Telangana": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Consultation with voluntary doctors",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " consultation with voluntary doctors telangana heathcare facility request mukteshwari bosco healing fields foundation"
+        },
+        {
+          "link": "",
+          "caption": "Help in accessing government machinery",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " help in accessing government machinery telangana capacity building support request mukteshwari bosco healing fields foundation"
+        },
+        {
+          "link": "",
+          "caption": "Capacity building support with their platform",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " capacity building support with their platform telangana heathcare facility offer mukteshwari bosco healing fields foundation"
+        },
+        {
+          "link": "",
+          "caption": "Post rehabilation relief (water)",
+          "fellowname": "Biplabketan Paul",
+          "organization": "Bhungroo Vikas Pvt. Ltd.",
+          "contact": "biplab@naireetaservices.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " post rehabilation relief (water) telangana post rehabilitation relief offer biplabketan paul bhungroo vikas pvt. ltd."
+        }
+      ],
+      "coordinates": {
+        "latitude": "18.1124",
+        "longitude": "79.0193"
+      }
+    },
+    "Uttarakhand": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Hygiene kits and dry ration ",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " hygiene kits and dry ration  uttarakhand na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Temporary quarantine facility",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " temporary quarantine facility uttarakhand na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Supporting distric administration with supplementing public health systems",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " supporting distric administration with supplementing public health systems uttarakhand na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Financial and essential services support to daily wage earners",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " financial and essential services support to daily wage earners uttarakhand na offer manu gupta seeds"
+        }
+      ],
+      "coordinates": {
+        "latitude": "30.0668",
+        "longitude": "79.0193"
+      }
+    },
+    "Chhattisgarh": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Resources for local governments",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " resources for local governments chhattisgarh  offer jessica mayberry video volunteers"
+        },
+        {
+          "link": "",
+          "caption": "Capacity building support through training of volunteers on documenting COVID",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " capacity building support through training of volunteers on documenting covid chhattisgarh  offer jessica mayberry video volunteers"
+        },
+        {
+          "link": "",
+          "caption": "Video production (interviewing village leaders about the crisis)",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " video production (interviewing village leaders about the crisis) chhattisgarh  offer jessica mayberry video volunteers"
+        },
+        {
+          "link": "",
+          "caption": "Access to state governments, , experts on public health in villages",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " access to state governments, , experts on public health in villages chhattisgarh  request jessica mayberry video volunteers"
+        },
+        {
+          "link": "",
+          "caption": "Post rehabilation relief (water)",
+          "fellowname": "Biplabketan Paul",
+          "organization": "Bhungroo Vikas Pvt. Ltd.",
+          "contact": "biplab@naireetaservices.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " post rehabilation relief (water) chhattisgarh post rehabilitation relief offer biplabketan paul bhungroo vikas pvt. ltd."
+        }
+      ],
+      "coordinates": {
+        "latitude": "21.2787",
+        "longitude": "81.8661"
       }
     },
     "Andaman &Nicobar Island": {
@@ -328,23 +388,23 @@
         },
         {
           "link": "",
-          "caption": "others",
+          "caption": "Connects to NBFCs/financial institutions to support informal workers",
           "fellowname": "Mathew Jose ",
           "organization": "Paperman Environmental solutions Pvt Ltd",
           "contact": "mathew@paperman.in",
           "type": "request",
           "Type": "Request",
-          "textsearch": " others andaman &nicobar island access to communities request mathew jose  paperman environmental solutions pvt ltd"
+          "textsearch": " connects to nbfcs/financial institutions to support informal workers andaman &nicobar island access to communities request mathew jose  paperman environmental solutions pvt ltd"
         },
         {
           "link": "",
-          "caption": "Information",
+          "caption": "Information on informal workers in other regions",
           "fellowname": "Mathew Jose ",
           "organization": "Paperman Environmental solutions Pvt Ltd",
           "contact": "mathew@paperman.in",
           "type": "request",
           "Type": "Request",
-          "textsearch": " information andaman &nicobar island logistics support request mathew jose  paperman environmental solutions pvt ltd"
+          "textsearch": " information on informal workers in other regions andaman &nicobar island logistics support request mathew jose  paperman environmental solutions pvt ltd"
         }
       ],
       "coordinates": {
@@ -356,13 +416,13 @@
       "blocks": [
         {
           "link": "",
-          "caption": "Communications strategy for govt",
+          "caption": "Resources for local governments",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications strategy for govt jharkhand  offer jessica mayberry video volunteers"
+          "textsearch": " resources for local governments jharkhand  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
@@ -372,31 +432,31 @@
           "contact": "mukti.bosco@healing-fields.org",
           "type": "request",
           "Type": "Request",
-          "textsearch": " consultation with voluntary doctors jharkhand  request mukteshwari bosco healing fields foundation"
+          "textsearch": " consultation with voluntary doctors jharkhand heathcare facility request mukteshwari bosco healing fields foundation"
         },
         {
           "link": "",
-          "caption": "Communications training",
+          "caption": "Capacity building support through training of volunteers on documenting COVID",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications training jharkhand  offer jessica mayberry video volunteers"
+          "textsearch": " capacity building support through training of volunteers on documenting covid jharkhand  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "video production",
+          "caption": "Video production (interviewing village leaders about the crisis)",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " video production jharkhand  offer jessica mayberry video volunteers"
+          "textsearch": " video production (interviewing village leaders about the crisis) jharkhand  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "access to state governments, , experts on public health in villages",
+          "caption": "Access to state governments, , experts on public health in villages",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
@@ -406,13 +466,23 @@
         },
         {
           "link": "",
-          "caption": "Consultationw ith voluntary doctors",
+          "caption": "Help in accessing government machinery",
           "fellowname": "Mukteshwari Bosco",
           "organization": "Healing Fields Foundation",
           "contact": "mukti.bosco@healing-fields.org",
           "type": "request",
           "Type": "Request",
-          "textsearch": " consultationw ith voluntary doctors jharkhand capacity building support request mukteshwari bosco healing fields foundation"
+          "textsearch": " help in accessing government machinery jharkhand capacity building support request mukteshwari bosco healing fields foundation"
+        },
+        {
+          "link": "",
+          "caption": "Capacity building support with their platform",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " capacity building support with their platform jharkhand heathcare facility offer mukteshwari bosco healing fields foundation"
         }
       ],
       "coordinates": {
@@ -420,217 +490,71 @@
         "longitude": "85.2799"
       }
     },
-    "Kerala": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "Warehouse facility ",
-          "fellowname": "Mathew Jose ",
-          "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " warehouse facility  kerala logistics support offer mathew jose  paperman environmental solutions pvt ltd"
-        },
-        {
-          "link": "",
-          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " hygiene kits and dry ration for marginalised families, old age homes, and orphanages kerala na offer manu gupta seeds"
-        },
-        {
-          "link": "",
-          "caption": "Key connects in the region",
-          "fellowname": "Mathew Jose ",
-          "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " key connects in the region kerala  offer mathew jose  paperman environmental solutions pvt ltd"
-        },
-        {
-          "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Mathew Jose ",
-          "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " community mobilisation kerala access to communities offer mathew jose  paperman environmental solutions pvt ltd"
-        },
-        {
-          "link": "",
-          "caption": "others",
-          "fellowname": "Mathew Jose ",
-          "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " others kerala access to communities request mathew jose  paperman environmental solutions pvt ltd"
-        },
-        {
-          "link": "",
-          "caption": "Information",
-          "fellowname": "Mathew Jose ",
-          "organization": "Paperman Environmental solutions Pvt Ltd",
-          "contact": "mathew@paperman.in",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " information kerala logistics support request mathew jose  paperman environmental solutions pvt ltd"
-        }
-      ],
-      "coordinates": {
-        "latitude": "10.8505",
-        "longitude": "76.2711"
-      }
-    },
-    "Bihar": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "Communications strategy for govt",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " communications strategy for govt bihar  offer jessica mayberry video volunteers"
-        },
-        {
-          "link": "",
-          "caption": "Consultation with voluntary doctors",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " consultation with voluntary doctors bihar heathcare facility request mukteshwari bosco healing fields foundation"
-        },
-        {
-          "link": "",
-          "caption": "Communications training",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " communications training bihar  offer jessica mayberry video volunteers"
-        },
-        {
-          "link": "",
-          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
-          "fellowname": "Manu Gupta",
-          "organization": "SEEDS",
-          "contact": "manu@seedsindia.org",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " hygiene kits and dry ration for marginalised families, old age homes, and orphanages bihar na offer manu gupta seeds"
-        },
-        {
-          "link": "",
-          "caption": "video production",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " video production bihar  offer jessica mayberry video volunteers"
-        },
-        {
-          "link": "",
-          "caption": "access to state governments, , experts on public health in villages",
-          "fellowname": "Jessica Mayberry",
-          "organization": "Video Volunteers",
-          "contact": "jessica@videovolunteers.org",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " access to state governments, , experts on public health in villages bihar  request jessica mayberry video volunteers"
-        },
-        {
-          "link": "",
-          "caption": "Consultationw ith voluntary doctors",
-          "fellowname": "Mukteshwari Bosco",
-          "organization": "Healing Fields Foundation",
-          "contact": "mukti.bosco@healing-fields.org",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " consultationw ith voluntary doctors bihar capacity building support request mukteshwari bosco healing fields foundation"
-        }
-      ],
-      "coordinates": {
-        "latitude": "25.0961",
-        "longitude": "85.3131"
-      }
-    },
     "Goa": {
       "blocks": [
         {
           "link": "",
-          "caption": "Communications strategy for govt",
+          "caption": "Resources for local governments",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications strategy for govt goa  offer jessica mayberry video volunteers"
+          "textsearch": " resources for local governments goa  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "Tech support",
+          "caption": "Tech support through their platform",
           "fellowname": "Kavita Anand",
           "organization": "Adhyayan Quality Education Services Pvt. Ltd. and Adhyayan Quality Education Foundation",
           "contact": "kavita.anand@adhyayan.asia ; kavita.anand@adhyayanfoundation.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " tech support goa technology offer kavita anand adhyayan quality education services pvt. ltd. and adhyayan quality education foundation"
+          "textsearch": " tech support through their platform goa technology offer kavita anand adhyayan quality education services pvt. ltd. and adhyayan quality education foundation"
         },
         {
           "link": "",
-          "caption": "Communications training",
+          "caption": "Capacity building support through training of volunteers on documenting COVID",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications training goa  offer jessica mayberry video volunteers"
+          "textsearch": " capacity building support through training of volunteers on documenting covid goa  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "Diagnostics for impact assessment",
+          "caption": "Diagnostic toolkit",
           "fellowname": "Kavita Anand",
           "organization": "Adhyayan Quality Education Services Pvt. Ltd. and Adhyayan Quality Education Foundation",
           "contact": "kavita.anand@adhyayan.asia ; kavita.anand@adhyayanfoundation.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " diagnostics for impact assessment goa diagnostic toolkit offer kavita anand adhyayan quality education services pvt. ltd. and adhyayan quality education foundation"
+          "textsearch": " diagnostic toolkit goa diagnostic toolkit offer kavita anand adhyayan quality education services pvt. ltd. and adhyayan quality education foundation"
         },
         {
           "link": "",
-          "caption": "Processes for developing capacity of educators and education stakeholders through professional learning communities of practice",
+          "caption": "Capacity building support (Professional Learning Communities based capacity) ",
           "fellowname": "Kavita Anand",
           "organization": "Adhyayan Quality Education Services Pvt. Ltd. and Adhyayan Quality Education Foundation",
           "contact": "kavita.anand@adhyayan.asia ; kavita.anand@adhyayanfoundation.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " processes for developing capacity of educators and education stakeholders through professional learning communities of practice goa capacity building support offer kavita anand adhyayan quality education services pvt. ltd. and adhyayan quality education foundation"
+          "textsearch": " capacity building support (professional learning communities based capacity)  goa capacity building support offer kavita anand adhyayan quality education services pvt. ltd. and adhyayan quality education foundation"
         },
         {
           "link": "",
-          "caption": "video production",
+          "caption": "Video production (interviewing village leaders about the crisis)",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " video production goa  offer jessica mayberry video volunteers"
+          "textsearch": " video production (interviewing village leaders about the crisis) goa  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "access to state governments, , experts on public health in villages",
+          "caption": "Access to state governments, , experts on public health in villages",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
@@ -654,115 +578,361 @@
         "longitude": "74.124"
       }
     },
-    "Delhi (NCR)": {
+    "Kerala": {
       "blocks": [
         {
           "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Anita Ahuja",
-          "organization": "Conserve",
-          "contact": "anita@conserveindia.org",
+          "caption": "Warehouse facility ",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " community mobilisation delhi (ncr) access to communities offer anita ahuja conserve"
+          "textsearch": " warehouse facility  kerala logistics support offer mathew jose  paperman environmental solutions pvt ltd"
         },
         {
           "link": "",
-          "caption": "Helpline platform",
-          "fellowname": "Anita Ahuja",
-          "organization": "Conserve",
-          "contact": "anita@conserveindia.org",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " helpline platform delhi (ncr) volunteers offer anita ahuja conserve"
-        },
-        {
-          "link": "",
-          "caption": "Data Analytics",
-          "fellowname": "Piyush Tewari",
-          "organization": "SaveLIFE Foundation",
-          "contact": "piyushtewari@savelifefoundation.org ",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " data analytics delhi (ncr)  offer piyush tewari savelife foundation"
-        },
-        {
-          "link": "",
-          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
+          "caption": "Hygiene kits and dry ration ",
           "fellowname": "Manu Gupta",
           "organization": "SEEDS",
           "contact": "manu@seedsindia.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " hygiene kits and dry ration for marginalised families, old age homes, and orphanages delhi (ncr) na offer manu gupta seeds"
+          "textsearch": " hygiene kits and dry ration  kerala na offer manu gupta seeds"
         },
         {
           "link": "",
-          "caption": "Manufactured PPEs",
-          "fellowname": "Anita Ahuja",
-          "organization": "Conserve",
-          "contact": "anita@conserveindia.org",
+          "caption": "Key connects in the region",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " manufactured ppes delhi (ncr) medical equipment offer anita ahuja conserve"
+          "textsearch": " key connects in the region kerala  offer mathew jose  paperman environmental solutions pvt ltd"
         },
         {
           "link": "",
-          "caption": "Procurement of PPEs",
-          "fellowname": "Piyush Tewari",
-          "organization": "SaveLIFE Foundation",
-          "contact": "piyushtewari@savelifefoundation.org ",
+          "caption": "Community Mobilisation",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " procurement of ppes delhi (ncr) medical equipment offer piyush tewari savelife foundation"
+          "textsearch": " community mobilisation kerala access to communities offer mathew jose  paperman environmental solutions pvt ltd"
         },
         {
           "link": "",
-          "caption": "Tools for PPE and Ventilator Estimation",
-          "fellowname": "Piyush Tewari",
-          "organization": "SaveLIFE Foundation",
-          "contact": "piyushtewari@savelifefoundation.org ",
+          "caption": "Connects to NBFCs/financial institutions to support informal workers",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " connects to nbfcs/financial institutions to support informal workers kerala access to communities request mathew jose  paperman environmental solutions pvt ltd"
+        },
+        {
+          "link": "",
+          "caption": "Information on informal workers in other regions",
+          "fellowname": "Mathew Jose ",
+          "organization": "Paperman Environmental solutions Pvt Ltd",
+          "contact": "mathew@paperman.in",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " information on informal workers in other regions kerala logistics support request mathew jose  paperman environmental solutions pvt ltd"
+        },
+        {
+          "link": "",
+          "caption": "Temporary quarantine facility",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " tools for ppe and ventilator estimation delhi (ncr) ppe offer piyush tewari savelife foundation"
+          "textsearch": " temporary quarantine facility kerala na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Supporting distric administration with supplementing public health systems",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " supporting distric administration with supplementing public health systems kerala na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Financial and essential services support to daily wage earners",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " financial and essential services support to daily wage earners kerala na offer manu gupta seeds"
+        }
+      ],
+      "coordinates": {
+        "latitude": "10.8505",
+        "longitude": "76.2711"
+      }
+    },
+    "Madhya Pradesh": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Resources for local governments",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " resources for local governments madhya pradesh  offer jessica mayberry video volunteers"
+        },
+        {
+          "link": "",
+          "caption": "Capacity building support through training of volunteers on documenting COVID",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " capacity building support through training of volunteers on documenting covid madhya pradesh  offer jessica mayberry video volunteers"
+        },
+        {
+          "link": "",
+          "caption": "Video production (interviewing village leaders about the crisis)",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " video production (interviewing village leaders about the crisis) madhya pradesh  offer jessica mayberry video volunteers"
+        },
+        {
+          "link": "",
+          "caption": "Access to state governments, , experts on public health in villages",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " access to state governments, , experts on public health in villages madhya pradesh  request jessica mayberry video volunteers"
+        },
+        {
+          "link": "",
+          "caption": "Setting up labourer help center",
+          "fellowname": "Sachin Kumar Jain",
+          "organization": "Vikas Samvad",
+          "contact": "skj.vikassamvad@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " setting up labourer help center madhya pradesh  request sachin kumar jain vikas samvad"
+        },
+        {
+          "link": "",
+          "caption": "Emergency support for women & children (nutrition)",
+          "fellowname": "Sachin Kumar Jain",
+          "organization": "Vikas Samvad",
+          "contact": "skj.vikassamvad@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " emergency support for women & children (nutrition) madhya pradesh  request sachin kumar jain vikas samvad"
+        },
+        {
+          "link": "",
+          "caption": "Development of team of counselors",
+          "fellowname": "Sachin Kumar Jain",
+          "organization": "Vikas Samvad",
+          "contact": "skj.vikassamvad@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " development of team of counselors madhya pradesh  request sachin kumar jain vikas samvad"
+        },
+        {
+          "link": "",
+          "caption": "Manual for community volunteers",
+          "fellowname": "Sachin Kumar Jain",
+          "organization": "Vikas Samvad",
+          "contact": "skj.vikassamvad@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " manual for community volunteers madhya pradesh capacity building support offer sachin kumar jain vikas samvad"
+        },
+        {
+          "link": "",
+          "caption": "Manual for journalists",
+          "fellowname": "Sachin Kumar Jain",
+          "organization": "Vikas Samvad",
+          "contact": "skj.vikassamvad@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " manual for journalists madhya pradesh capacity building support offer sachin kumar jain vikas samvad"
+        },
+        {
+          "link": "",
+          "caption": "IEC materials in Hindi",
+          "fellowname": "Sachin Kumar Jain",
+          "organization": "Vikas Samvad",
+          "contact": "skj.vikassamvad@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " iec materials in hindi madhya pradesh capacity building support offer sachin kumar jain vikas samvad"
+        },
+        {
+          "link": "",
+          "caption": "Post rehabilation relief (water)",
+          "fellowname": "Biplabketan Paul",
+          "organization": "Bhungroo Vikas Pvt. Ltd.",
+          "contact": "biplab@naireetaservices.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " post rehabilation relief (water) madhya pradesh post rehabilitation relief offer biplabketan paul bhungroo vikas pvt. ltd."
+        }
+      ],
+      "coordinates": {
+        "latitude": "22.9734",
+        "longitude": "78.6569"
+      }
+    },
+    "Assam": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Deep Jyoti Sonu Brahma",
+          "organization": "Farm2Food Foundation",
+          "contact": "deepjyotisonu@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " access to volunteers assam access to volunteers offer deep jyoti sonu brahma farm2food foundation"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation through frontline health staff",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " community mobilisation through frontline health staff assam access to communities offer dr.sudarshan hanumanappa karuna trust"
         },
         {
           "link": "",
           "caption": "Access to Volunteers",
-          "fellowname": "Anita Ahuja",
-          "organization": "Conserve",
-          "contact": "anita@conserveindia.org",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " access to volunteers assam access to volunteers offer dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Wellbeing support",
+          "fellowname": "Deep Jyoti Sonu Brahma",
+          "organization": "Farm2Food Foundation",
+          "contact": "deepjyotisonu@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " wellbeing support assam wellbeing offer deep jyoti sonu brahma farm2food foundation"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation",
+          "fellowname": "Deep Jyoti Sonu Brahma",
+          "organization": "Farm2Food Foundation",
+          "contact": "deepjyotisonu@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " community mobilisation assam access to communities offer deep jyoti sonu brahma farm2food foundation"
+        },
+        {
+          "link": "",
+          "caption": "Healthcare centers ",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " healthcare centers  assam healthcare facilities offer dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Training as well as PPE for volunteers",
+          "fellowname": "Deep Jyoti Sonu Brahma",
+          "organization": "Farm2Food Foundation",
+          "contact": "deepjyotisonu@gmail.com",
           "type": "request",
           "Type": "Request",
-          "textsearch": " access to volunteers delhi (ncr) access to communities request anita ahuja conserve"
+          "textsearch": " training as well as ppe for volunteers assam access to communities request deep jyoti sonu brahma farm2food foundation"
+        },
+        {
+          "link": "",
+          "caption": "PPE for frontline healthcare staff",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " ppe for frontline healthcare staff assam healthcare facilities request dr.sudarshan hanumanappa karuna trust"
         },
         {
           "link": "",
           "caption": "Financial support",
-          "fellowname": "Anita Ahuja",
-          "organization": "Conserve",
-          "contact": "anita@conserveindia.org",
+          "fellowname": "Deep Jyoti Sonu Brahma",
+          "organization": "Farm2Food Foundation",
+          "contact": "deepjyotisonu@gmail.com",
           "type": "request",
           "Type": "Request",
-          "textsearch": " financial support delhi (ncr) volunteers request anita ahuja conserve"
+          "textsearch": " financial support assam financial support request deep jyoti sonu brahma farm2food foundation"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platforms",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " helpline platforms assam access to communities request dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Health education materials",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " health education materials assam access to volunteers request dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Emergency medicines & hygiene materials",
+          "fellowname": "Deep Jyoti Sonu Brahma",
+          "organization": "Farm2Food Foundation",
+          "contact": "deepjyotisonu@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " emergency medicines & hygiene materials assam wellbeing request deep jyoti sonu brahma farm2food foundation"
         }
       ],
       "coordinates": {
-        "latitude": "28.7041",
-        "longitude": "77.1025"
+        "latitude": "26.2006",
+        "longitude": "92.9376"
       }
     },
     "Tamil Nadu": {
       "blocks": [
         {
           "link": "",
-          "caption": "Community Mobilisation",
+          "caption": "Community Mobilisation through frontline health staff",
           "fellowname": "Dr.Sudarshan Hanumanappa",
           "organization": "Karuna Trust",
           "contact": "karunatrustblr@gmail.com",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " community mobilisation tamil nadu access to communities offer dr.sudarshan hanumanappa karuna trust"
+          "textsearch": " community mobilisation through frontline health staff tamil nadu access to communities offer dr.sudarshan hanumanappa karuna trust"
         },
         {
           "link": "",
@@ -806,33 +976,33 @@
         },
         {
           "link": "",
-          "caption": "Medical",
+          "caption": "Healthcare centers ",
           "fellowname": "Dr.Sudarshan Hanumanappa",
           "organization": "Karuna Trust",
           "contact": "karunatrustblr@gmail.com",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " medical tamil nadu healthcare facilities offer dr.sudarshan hanumanappa karuna trust"
+          "textsearch": " healthcare centers  tamil nadu healthcare facilities offer dr.sudarshan hanumanappa karuna trust"
         },
         {
           "link": "",
-          "caption": "others",
+          "caption": "Connects to NBFCs/financial institutions to support informal workers",
           "fellowname": "Mathew Jose ",
           "organization": "Paperman Environmental solutions Pvt Ltd",
           "contact": "mathew@paperman.in",
           "type": "request",
           "Type": "Request",
-          "textsearch": " others tamil nadu access to communities request mathew jose  paperman environmental solutions pvt ltd"
+          "textsearch": " connects to nbfcs/financial institutions to support informal workers tamil nadu access to communities request mathew jose  paperman environmental solutions pvt ltd"
         },
         {
           "link": "",
-          "caption": "others",
+          "caption": "PPE for frontline healthcare staff",
           "fellowname": "Dr.Sudarshan Hanumanappa",
           "organization": "Karuna Trust",
           "contact": "karunatrustblr@gmail.com",
           "type": "request",
           "Type": "Request",
-          "textsearch": " others tamil nadu healthcare facilities request dr.sudarshan hanumanappa karuna trust"
+          "textsearch": " ppe for frontline healthcare staff tamil nadu healthcare facilities request dr.sudarshan hanumanappa karuna trust"
         },
         {
           "link": "",
@@ -846,23 +1016,43 @@
         },
         {
           "link": "",
-          "caption": "Information",
+          "caption": "Health education materials",
           "fellowname": "Dr.Sudarshan Hanumanappa",
           "organization": "Karuna Trust",
           "contact": "karunatrustblr@gmail.com",
           "type": "request",
           "Type": "Request",
-          "textsearch": " information tamil nadu access to volunteers request dr.sudarshan hanumanappa karuna trust"
+          "textsearch": " health education materials tamil nadu access to volunteers request dr.sudarshan hanumanappa karuna trust"
         },
         {
           "link": "",
-          "caption": "Information",
+          "caption": "Information on informal workers in other regions",
           "fellowname": "Mathew Jose ",
           "organization": "Paperman Environmental solutions Pvt Ltd",
           "contact": "mathew@paperman.in",
           "type": "request",
           "Type": "Request",
-          "textsearch": " information tamil nadu logistics support request mathew jose  paperman environmental solutions pvt ltd"
+          "textsearch": " information on informal workers in other regions tamil nadu logistics support request mathew jose  paperman environmental solutions pvt ltd"
+        },
+        {
+          "link": "",
+          "caption": "Post rehabilation relief (water)",
+          "fellowname": "Biplabketan Paul",
+          "organization": "Bhungroo Vikas Pvt. Ltd.",
+          "contact": "biplab@naireetaservices.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " post rehabilation relief (water) tamil nadu post rehabilitation relief offer biplabketan paul bhungroo vikas pvt. ltd."
+        },
+        {
+          "link": "",
+          "caption": "Funding support to supply medical equipment sand consumables to government hospitals of India",
+          "fellowname": "Dr Sailakshmi B",
+          "organization": "Ekam",
+          "contact": "sailakshmi@ekamoneness.org",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " funding support to supply medical equipment sand consumables to government hospitals of india tamil nadu financial support request dr sailakshmi b ekam"
         }
       ],
       "coordinates": {
@@ -870,145 +1060,17 @@
         "longitude": "78.6569"
       }
     },
-    "Assam": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Deep Jyoti Sonu Brahma",
-          "organization": "Farm2Food Foundation",
-          "contact": "deepjyotisonu@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " access to volunteers assam access to volunteers offer deep jyoti sonu brahma farm2food foundation"
-        },
-        {
-          "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " community mobilisation assam access to communities offer dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " access to volunteers assam access to volunteers offer dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Wellbeing support",
-          "fellowname": "Deep Jyoti Sonu Brahma",
-          "organization": "Farm2Food Foundation",
-          "contact": "deepjyotisonu@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " wellbeing support assam wellbeing offer deep jyoti sonu brahma farm2food foundation"
-        },
-        {
-          "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Deep Jyoti Sonu Brahma",
-          "organization": "Farm2Food Foundation",
-          "contact": "deepjyotisonu@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " community mobilisation assam access to communities offer deep jyoti sonu brahma farm2food foundation"
-        },
-        {
-          "link": "",
-          "caption": "Medical",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " medical assam healthcare facilities offer dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "others",
-          "fellowname": "Deep Jyoti Sonu Brahma",
-          "organization": "Farm2Food Foundation",
-          "contact": "deepjyotisonu@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " others assam access to communities request deep jyoti sonu brahma farm2food foundation"
-        },
-        {
-          "link": "",
-          "caption": "others",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " others assam healthcare facilities request dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Financial support",
-          "fellowname": "Deep Jyoti Sonu Brahma",
-          "organization": "Farm2Food Foundation",
-          "contact": "deepjyotisonu@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " financial support assam access to volunteers request deep jyoti sonu brahma farm2food foundation"
-        },
-        {
-          "link": "",
-          "caption": "Helpline platforms",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " helpline platforms assam access to communities request dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Information",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " information assam access to volunteers request dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Medical",
-          "fellowname": "Deep Jyoti Sonu Brahma",
-          "organization": "Farm2Food Foundation",
-          "contact": "deepjyotisonu@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " medical assam wellbeing request deep jyoti sonu brahma farm2food foundation"
-        }
-      ],
-      "coordinates": {
-        "latitude": "26.2006",
-        "longitude": "92.9376"
-      }
-    },
     "Uttar Pradesh": {
       "blocks": [
         {
           "link": "",
-          "caption": "Communications strategy for govt",
+          "caption": "Resources for local governments",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications strategy for govt uttar pradesh  offer jessica mayberry video volunteers"
+          "textsearch": " resources for local governments uttar pradesh  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
@@ -1028,7 +1090,7 @@
           "contact": "mukti.bosco@healing-fields.org",
           "type": "request",
           "Type": "Request",
-          "textsearch": " consultation with voluntary doctors uttar pradesh  request mukteshwari bosco healing fields foundation"
+          "textsearch": " consultation with voluntary doctors uttar pradesh heathcare facility request mukteshwari bosco healing fields foundation"
         },
         {
           "link": "",
@@ -1042,33 +1104,33 @@
         },
         {
           "link": "",
-          "caption": "Communications training",
+          "caption": "Capacity building support through training of volunteers on documenting COVID",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications training uttar pradesh  offer jessica mayberry video volunteers"
+          "textsearch": " capacity building support through training of volunteers on documenting covid uttar pradesh  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "Herbal Hand wash , Soap ",
+          "caption": "Sanitizing products",
           "fellowname": "Sanjeev Kumar ",
           "organization": "The Goat trust ",
           "contact": "thegoattrust@gmail.com ",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " herbal hand wash , soap  uttar pradesh sanitizing products offer sanjeev kumar  the goat trust "
+          "textsearch": " sanitizing products uttar pradesh sanitizing products offer sanjeev kumar  the goat trust "
         },
         {
           "link": "",
-          "caption": "Immunity enhancer Goat milk + Moringa ",
+          "caption": "Immunity enhancing natural food products",
           "fellowname": "Sanjeev Kumar ",
           "organization": "The Goat trust ",
           "contact": "thegoattrust@gmail.com ",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " immunity enhancer goat milk + moringa  uttar pradesh food  offer sanjeev kumar  the goat trust "
+          "textsearch": " immunity enhancing natural food products uttar pradesh food  offer sanjeev kumar  the goat trust "
         },
         {
           "link": "",
@@ -1092,17 +1154,17 @@
         },
         {
           "link": "",
-          "caption": "video production",
+          "caption": "Video production (interviewing village leaders about the crisis)",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " video production uttar pradesh  offer jessica mayberry video volunteers"
+          "textsearch": " video production (interviewing village leaders about the crisis) uttar pradesh  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "access to state governments, , experts on public health in villages",
+          "caption": "Access to state governments, , experts on public health in villages",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
@@ -1122,13 +1184,13 @@
         },
         {
           "link": "",
-          "caption": "Consultationw ith voluntary doctors",
+          "caption": "Help in accessing government machinery",
           "fellowname": "Mukteshwari Bosco",
           "organization": "Healing Fields Foundation",
           "contact": "mukti.bosco@healing-fields.org",
           "type": "request",
           "Type": "Request",
-          "textsearch": " consultationw ith voluntary doctors uttar pradesh capacity building support request mukteshwari bosco healing fields foundation"
+          "textsearch": " help in accessing government machinery uttar pradesh capacity building support request mukteshwari bosco healing fields foundation"
         },
         {
           "link": "",
@@ -1139,6 +1201,26 @@
           "type": "request",
           "Type": "Request",
           "textsearch": " financial support uttar pradesh volunteers request anita ahuja conserve"
+        },
+        {
+          "link": "",
+          "caption": "Capacity building support with their platform",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " capacity building support with their platform uttar pradesh heathcare facility offer mukteshwari bosco healing fields foundation"
+        },
+        {
+          "link": "",
+          "caption": "Post rehabilation relief (water)",
+          "fellowname": "Biplabketan Paul",
+          "organization": "Bhungroo Vikas Pvt. Ltd.",
+          "contact": "biplab@naireetaservices.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " post rehabilation relief (water) uttar pradesh post rehabilitation relief offer biplabketan paul bhungroo vikas pvt. ltd."
         }
       ],
       "coordinates": {
@@ -1146,373 +1228,185 @@
         "longitude": "80.9462"
       }
     },
-    "Odisha": {
+    "Bihar": {
       "blocks": [
         {
           "link": "",
-          "caption": "Communications strategy for govt",
+          "caption": "Resources for local governments",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications strategy for govt odisha  offer jessica mayberry video volunteers"
+          "textsearch": " resources for local governments bihar  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "Information",
-          "fellowname": "Blacius Ekka",
-          "organization": "OCI",
-          "contact": "blaciussj@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " information odisha information disemination offer blacius ekka oci"
+          "caption": "Consultation with voluntary doctors",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " consultation with voluntary doctors bihar heathcare facility request mukteshwari bosco healing fields foundation"
         },
         {
           "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " community mobilisation odisha access to communities offer dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " access to volunteers odisha access to volunteers offer dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Communications training",
+          "caption": "Capacity building support through training of volunteers on documenting COVID",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications training odisha  offer jessica mayberry video volunteers"
+          "textsearch": " capacity building support through training of volunteers on documenting covid bihar  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Blacius Ekka",
-          "organization": "OCI",
-          "contact": "blaciussj@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " community mobilisation odisha access to community offer blacius ekka oci"
-        },
-        {
-          "link": "",
-          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
+          "caption": "Hygiene kits and dry ration ",
           "fellowname": "Manu Gupta",
           "organization": "SEEDS",
           "contact": "manu@seedsindia.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " hygiene kits and dry ration for marginalised families, old age homes, and orphanages odisha na offer manu gupta seeds"
+          "textsearch": " hygiene kits and dry ration  bihar na offer manu gupta seeds"
         },
         {
           "link": "",
-          "caption": "video production",
+          "caption": "Video production (interviewing village leaders about the crisis)",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " video production odisha  offer jessica mayberry video volunteers"
+          "textsearch": " video production (interviewing village leaders about the crisis) bihar  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "Medical",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " medical odisha healthcare facilities offer dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Blacius Ekka",
-          "organization": "OCI",
-          "contact": "blaciussj@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " access to volunteers odisha access to volunteers offer blacius ekka oci"
-        },
-        {
-          "link": "",
-          "caption": "others",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " others odisha healthcare facilities request dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Tech support",
-          "fellowname": "Blacius Ekka",
-          "organization": "OCI",
-          "contact": "blaciussj@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " tech support odisha access to volunteers request blacius ekka oci"
-        },
-        {
-          "link": "",
-          "caption": "access to state governments, , experts on public health in villages",
+          "caption": "Access to state governments, , experts on public health in villages",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "request",
           "Type": "Request",
-          "textsearch": " access to state governments, , experts on public health in villages odisha  request jessica mayberry video volunteers"
+          "textsearch": " access to state governments, , experts on public health in villages bihar  request jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "Financial support",
-          "fellowname": "Blacius Ekka",
-          "organization": "OCI",
-          "contact": "blaciussj@gmail.com",
+          "caption": "Help in accessing government machinery",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
           "type": "request",
           "Type": "Request",
-          "textsearch": " financial support odisha information disemination request blacius ekka oci"
+          "textsearch": " help in accessing government machinery bihar capacity building support request mukteshwari bosco healing fields foundation"
         },
         {
           "link": "",
-          "caption": "Helpline platforms",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " helpline platforms odisha access to communities request dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Information",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " information odisha access to volunteers request dr.sudarshan hanumanappa karuna trust"
-        }
-      ],
-      "coordinates": {
-        "latitude": "20.9517",
-        "longitude": "85.0985"
-      }
-    },
-    "Karnataka": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "Helpline platform (Delivery anywhere)",
-          "fellowname": "Ashwin Naik",
-          "organization": "Manah Wellness",
-          "contact": "ashwin.naik@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " helpline platform (delivery anywhere) karnataka helpline offer ashwin naik manah wellness"
-        },
-        {
-          "link": "",
-          "caption": "Wellbeing support (Delivery anywhere)",
-          "fellowname": "Ashwin Naik",
-          "organization": "Manah Wellness",
-          "contact": "ashwin.naik@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " wellbeing support (delivery anywhere) karnataka wellbeing offer ashwin naik manah wellness"
-        },
-        {
-          "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Mabel Pinto",
-          "organization": "Deepalaya Social service Centre",
-          "contact": "9739065166 dhmdeepalaya@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " access to volunteers karnataka access to volunteers offer mabel pinto deepalaya social service centre"
-        },
-        {
-          "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " community mobilisation karnataka access to communities offer dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " access to volunteers karnataka access to volunteers offer dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Helpline platform",
-          "fellowname": "Mabel Pinto",
-          "organization": "Deepalaya Social service Centre",
-          "contact": "9739065166 dhmdeepalaya@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " helpline platform karnataka helpline offer mabel pinto deepalaya social service centre"
-        },
-        {
-          "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Mabel Pinto",
-          "organization": "Deepalaya Social service Centre",
-          "contact": "9739065166 dhmdeepalaya@gmail.com",
-          "type": "offer",
-          "Type": "Offer",
-          "textsearch": " access to volunteers karnataka access to volunteers offer mabel pinto deepalaya social service centre"
-        },
-        {
-          "link": "",
-          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
+          "caption": "Temporary quarantine facility",
           "fellowname": "Manu Gupta",
           "organization": "SEEDS",
           "contact": "manu@seedsindia.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " hygiene kits and dry ration for marginalised families, old age homes, and orphanages karnataka na offer manu gupta seeds"
+          "textsearch": " temporary quarantine facility bihar na offer manu gupta seeds"
         },
         {
           "link": "",
-          "caption": "Medical",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
+          "caption": "Supporting distric administration with supplementing public health systems",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " medical karnataka healthcare facilities offer dr.sudarshan hanumanappa karuna trust"
+          "textsearch": " supporting distric administration with supplementing public health systems bihar na offer manu gupta seeds"
         },
         {
           "link": "",
-          "caption": "Medical (Delivery anywhere)",
-          "fellowname": "Ashwin Naik",
-          "organization": "Manah Wellness",
-          "contact": "ashwin.naik@gmail.com",
+          "caption": "Financial and essential services support to daily wage earners",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " medical (delivery anywhere) karnataka doctors/hospitals offer ashwin naik manah wellness"
+          "textsearch": " financial and essential services support to daily wage earners bihar na offer manu gupta seeds"
         },
         {
           "link": "",
-          "caption": "others",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " others karnataka healthcare facilities request dr.sudarshan hanumanappa karuna trust"
+          "caption": "Capacity building support with their platform",
+          "fellowname": "Mukteshwari Bosco",
+          "organization": "Healing Fields Foundation",
+          "contact": "mukti.bosco@healing-fields.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " capacity building support with their platform bihar heathcare facility offer mukteshwari bosco healing fields foundation"
         },
         {
           "link": "",
-          "caption": "others",
-          "fellowname": "Ashwin Naik",
-          "organization": "Manah Wellness",
-          "contact": "ashwin.naik@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " others karnataka doctors/hospitals request ashwin naik manah wellness"
+          "caption": "Community mobilisation",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " community mobilisation bihar access to community offer mohd tarique koshish"
         },
         {
           "link": "",
-          "caption": "Access to Volunteers",
-          "fellowname": "Ashwin Naik",
-          "organization": "Manah Wellness",
-          "contact": "ashwin.naik@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " access to volunteers karnataka helpline request ashwin naik manah wellness"
+          "caption": "Shelter and food for street population",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " shelter and food for street population bihar relief offer mohd tarique koshish"
         },
         {
           "link": "",
-          "caption": "Community Mobilisation",
-          "fellowname": "Ashwin Naik",
-          "organization": "Manah Wellness",
-          "contact": "ashwin.naik@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " community mobilisation karnataka wellbeing request ashwin naik manah wellness"
+          "caption": "Leverage government facilities for relief",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " leverage government facilities for relief bihar relief offer mohd tarique koshish"
         },
         {
           "link": "",
-          "caption": "Financial support",
-          "fellowname": "Mabel Pinto",
-          "organization": "Deepalaya Social service Centre",
-          "contact": "9739065166 dhmdeepalaya@gmail.com",
+          "caption": "Support for livelihood activities",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
           "type": "request",
           "Type": "Request",
-          "textsearch": " financial support karnataka access to volunteers request mabel pinto deepalaya social service centre"
+          "textsearch": " support for livelihood activities bihar livelihood support request mohd tarique koshish"
         },
         {
           "link": "",
-          "caption": "Helpline platforms",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
+          "caption": "Mental health support",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
           "type": "request",
           "Type": "Request",
-          "textsearch": " helpline platforms karnataka access to communities request dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Information",
-          "fellowname": "Dr.Sudarshan Hanumanappa",
-          "organization": "Karuna Trust",
-          "contact": "karunatrustblr@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " information karnataka access to volunteers request dr.sudarshan hanumanappa karuna trust"
-        },
-        {
-          "link": "",
-          "caption": "Information",
-          "fellowname": "Mabel Pinto",
-          "organization": "Deepalaya Social service Centre",
-          "contact": "9739065166 dhmdeepalaya@gmail.com",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " information karnataka helpline request mabel pinto deepalaya social service centre"
+          "textsearch": " mental health support bihar wellbeing request mohd tarique koshish"
         }
       ],
       "coordinates": {
-        "latitude": "15.3173",
-        "longitude": "75.7139"
+        "latitude": "25.0961",
+        "longitude": "85.3131"
       }
     },
     "Rajasthan": {
       "blocks": [
         {
           "link": "",
-          "caption": "Communications strategy for govt",
+          "caption": "Resources for local governments",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications strategy for govt rajasthan  offer jessica mayberry video volunteers"
+          "textsearch": " resources for local governments rajasthan  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
@@ -1546,43 +1440,43 @@
         },
         {
           "link": "",
-          "caption": "Helpline platform",
+          "caption": "Helpline platform (24/7, teleconsultation)",
           "fellowname": "Kumar Shailabh",
           "organization": "Uplift Mutuals",
           "contact": "krshailabh@upliftmutuals.org 9923115524",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " helpline platform rajasthan helpline offer kumar shailabh uplift mutuals"
+          "textsearch": " helpline platform (24/7, teleconsultation) rajasthan helpline offer kumar shailabh uplift mutuals"
         },
         {
           "link": "",
-          "caption": "Helpline platform",
+          "caption": "Helpline platform through trained counselors",
           "fellowname": "Priya Agrawal",
           "organization": "Antarang Foundation",
           "contact": "priya@antarangfoundation.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " helpline platform rajasthan helpline offer priya agrawal antarang foundation"
+          "textsearch": " helpline platform through trained counselors rajasthan helpline offer priya agrawal antarang foundation"
         },
         {
           "link": "",
-          "caption": "Insurance ",
+          "caption": "Health mutual insurance",
           "fellowname": "Kumar Shailabh",
           "organization": "Uplift Mutuals",
           "contact": "krshailabh@upliftmutuals.org 9923115524",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " insurance  rajasthan medical offer kumar shailabh uplift mutuals"
+          "textsearch": " health mutual insurance rajasthan medical offer kumar shailabh uplift mutuals"
         },
         {
           "link": "",
-          "caption": "Communications training",
+          "caption": "Capacity building support through training of volunteers on documenting COVID",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " communications training rajasthan  offer jessica mayberry video volunteers"
+          "textsearch": " capacity building support through training of volunteers on documenting covid rajasthan  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
@@ -1596,33 +1490,33 @@
         },
         {
           "link": "",
-          "caption": "Other",
+          "caption": "Access to blockchain providers and video content translation",
           "fellowname": "Kumar Shailabh",
           "organization": "Uplift Mutuals",
           "contact": "krshailabh@upliftmutuals.org 9923115524",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " other rajasthan access to volunteers offer kumar shailabh uplift mutuals"
+          "textsearch": " access to blockchain providers and video content translation rajasthan access to volunteers offer kumar shailabh uplift mutuals"
         },
         {
           "link": "",
-          "caption": "video production",
+          "caption": "Video production (interviewing village leaders about the crisis)",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " video production rajasthan  offer jessica mayberry video volunteers"
+          "textsearch": " video production (interviewing village leaders about the crisis) rajasthan  offer jessica mayberry video volunteers"
         },
         {
           "link": "",
-          "caption": "Access to Volunteers",
+          "caption": "PPE ",
           "fellowname": "Priya Agrawal",
           "organization": "Antarang Foundation",
           "contact": "priya@antarangfoundation.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " access to volunteers rajasthan medical equipment offer priya agrawal antarang foundation"
+          "textsearch": " ppe  rajasthan medical equipment offer priya agrawal antarang foundation"
         },
         {
           "link": "",
@@ -1636,7 +1530,7 @@
         },
         {
           "link": "",
-          "caption": "access to state governments, , experts on public health in villages",
+          "caption": "Access to state governments, , experts on public health in villages",
           "fellowname": "Jessica Mayberry",
           "organization": "Video Volunteers",
           "contact": "jessica@videovolunteers.org",
@@ -1662,7 +1556,7 @@
           "contact": "priya@antarangfoundation.org",
           "type": "request",
           "Type": "Request",
-          "textsearch": " access to volunteers rajasthan access to communities request priya agrawal antarang foundation"
+          "textsearch": " access to volunteers rajasthan  request priya agrawal antarang foundation"
         },
         {
           "link": "",
@@ -1692,22 +1586,656 @@
           "contact": "priya@antarangfoundation.org",
           "type": "request",
           "Type": "Request",
-          "textsearch": " financial support rajasthan helpline request priya agrawal antarang foundation"
-        },
-        {
-          "link": "",
-          "caption": "Financial support",
-          "fellowname": "Kumar Shailabh",
-          "organization": "Uplift Mutuals",
-          "contact": "krshailabh@upliftmutuals.org 9923115524",
-          "type": "request",
-          "Type": "Request",
-          "textsearch": " financial support rajasthan insurance request kumar shailabh uplift mutuals"
+          "textsearch": " financial support rajasthan  request priya agrawal antarang foundation"
         }
       ],
       "coordinates": {
         "latitude": "27.0238",
         "longitude": "74.2179"
+      }
+    },
+    "NCT of Delhi": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Community Mobilisation",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " community mobilisation nct of delhi access to communities offer anita ahuja conserve"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platform",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " helpline platform nct of delhi volunteers offer anita ahuja conserve"
+        },
+        {
+          "link": "",
+          "caption": "Data Analytics",
+          "fellowname": "Piyush Tewari",
+          "organization": "SaveLIFE Foundation",
+          "contact": "piyushtewari@savelifefoundation.org ",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " data analytics nct of delhi  offer piyush tewari savelife foundation"
+        },
+        {
+          "link": "",
+          "caption": "Hygiene kits and dry ration ",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " hygiene kits and dry ration  nct of delhi na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Manufactured PPEs",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " manufactured ppes nct of delhi medical equipment offer anita ahuja conserve"
+        },
+        {
+          "link": "",
+          "caption": "Procurement of PPEs",
+          "fellowname": "Piyush Tewari",
+          "organization": "SaveLIFE Foundation",
+          "contact": "piyushtewari@savelifefoundation.org ",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " procurement of ppes nct of delhi medical equipment offer piyush tewari savelife foundation"
+        },
+        {
+          "link": "",
+          "caption": "Tools for PPE and Ventilator Estimation",
+          "fellowname": "Piyush Tewari",
+          "organization": "SaveLIFE Foundation",
+          "contact": "piyushtewari@savelifefoundation.org ",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " tools for ppe and ventilator estimation nct of delhi ppe offer piyush tewari savelife foundation"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " access to volunteers nct of delhi access to communities request anita ahuja conserve"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Anita Ahuja",
+          "organization": "Conserve",
+          "contact": "anita@conserveindia.org",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " financial support nct of delhi volunteers request anita ahuja conserve"
+        },
+        {
+          "link": "",
+          "caption": "Temporary quarantine facility",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " temporary quarantine facility nct of delhi na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Supporting distric administration with supplementing public health systems",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " supporting distric administration with supplementing public health systems nct of delhi na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Financial and essential services support to daily wage earners",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " financial and essential services support to daily wage earners nct of delhi na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Data visualization to support on ground teams",
+          "fellowname": "Arjun Venkatraman",
+          "organization": "Mojolab",
+          "contact": "arjun@mojolab.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " data visualization to support on ground teams nct of delhi technology offer arjun venkatraman mojolab"
+        },
+        {
+          "link": "",
+          "caption": "Financial support for tech innovation (Same Language Subtitling - for continued learning)",
+          "fellowname": "Brij Kothari",
+          "organization": "",
+          "contact": "brij@planetread.org",
+          "type": "",
+          "Type": "",
+          "textsearch": " financial support for tech innovation (same language subtitling - for continued learning) nct of delhi technology  brij kothari "
+        },
+        {
+          "link": "",
+          "caption": "Community mobilisation",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " community mobilisation nct of delhi access to community offer mohd tarique koshish"
+        },
+        {
+          "link": "",
+          "caption": "Shelter and food for street population",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " shelter and food for street population nct of delhi relief offer mohd tarique koshish"
+        },
+        {
+          "link": "",
+          "caption": "Leverage government facilities for relief",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " leverage government facilities for relief nct of delhi relief offer mohd tarique koshish"
+        },
+        {
+          "link": "",
+          "caption": "Support for livelihood activities",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " support for livelihood activities nct of delhi livelihood support request mohd tarique koshish"
+        },
+        {
+          "link": "",
+          "caption": "Mental health support",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " mental health support nct of delhi wellbeing request mohd tarique koshish"
+        }
+      ],
+      "coordinates": {
+        "latitude": "28.7041",
+        "longitude": "77.1025"
+      }
+    },
+    "Odisha": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Resources for local governments",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " resources for local governments odisha  offer jessica mayberry video volunteers"
+        },
+        {
+          "link": "",
+          "caption": "Information disemination through village leaders",
+          "fellowname": "Blacius Ekka",
+          "organization": "OCI",
+          "contact": "blaciussj@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " information disemination through village leaders odisha information disemination offer blacius ekka oci"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation through frontline health staff",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " community mobilisation through frontline health staff odisha access to communities offer dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " access to volunteers odisha access to volunteers offer dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Capacity building support through training of volunteers on documenting COVID",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " capacity building support through training of volunteers on documenting covid odisha  offer jessica mayberry video volunteers"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation",
+          "fellowname": "Blacius Ekka",
+          "organization": "OCI",
+          "contact": "blaciussj@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " community mobilisation odisha access to community offer blacius ekka oci"
+        },
+        {
+          "link": "",
+          "caption": "Hygiene kits and dry ration ",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " hygiene kits and dry ration  odisha na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Video production (interviewing village leaders about the crisis)",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " video production (interviewing village leaders about the crisis) odisha  offer jessica mayberry video volunteers"
+        },
+        {
+          "link": "",
+          "caption": "Healthcare centers ",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " healthcare centers  odisha healthcare facilities offer dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Blacius Ekka",
+          "organization": "OCI",
+          "contact": "blaciussj@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " access to volunteers odisha access to volunteers offer blacius ekka oci"
+        },
+        {
+          "link": "",
+          "caption": "PPE for frontline healthcare staff",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " ppe for frontline healthcare staff odisha healthcare facilities request dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Tech support",
+          "fellowname": "Blacius Ekka",
+          "organization": "OCI",
+          "contact": "blaciussj@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " tech support odisha access to volunteers request blacius ekka oci"
+        },
+        {
+          "link": "",
+          "caption": "Access to state governments, , experts on public health in villages",
+          "fellowname": "Jessica Mayberry",
+          "organization": "Video Volunteers",
+          "contact": "jessica@videovolunteers.org",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " access to state governments, , experts on public health in villages odisha  request jessica mayberry video volunteers"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Blacius Ekka",
+          "organization": "OCI",
+          "contact": "blaciussj@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " financial support odisha information disemination request blacius ekka oci"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platforms",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " helpline platforms odisha access to communities request dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Health education materials",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " health education materials odisha access to volunteers request dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Temporary quarantine facility",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " temporary quarantine facility odisha na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Supporting distric administration with supplementing public health systems",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " supporting distric administration with supplementing public health systems odisha na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Financial and essential services support to daily wage earners",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " financial and essential services support to daily wage earners odisha na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Financial support to  make and distribute cotton double layer masks ",
+          "fellowname": "Debjeet",
+          "organization": "Living Farms",
+          "contact": "livingfarms@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " financial support to  make and distribute cotton double layer masks  odisha financial support request debjeet living farms"
+        },
+        {
+          "link": "",
+          "caption": "Access to volunteers",
+          "fellowname": "Debjeet",
+          "organization": "Living Farms",
+          "contact": "livingfarms@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " access to volunteers odisha access to volunteers offer debjeet living farms"
+        }
+      ],
+      "coordinates": {
+        "latitude": "20.9517",
+        "longitude": "85.0985"
+      }
+    },
+    "Karnataka": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Helpline platform (Delivery anywhere)",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " helpline platform (delivery anywhere) karnataka helpline offer ashwin naik manah wellness"
+        },
+        {
+          "link": "",
+          "caption": "Wellbeing support (Delivery anywhere)",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " wellbeing support (delivery anywhere) karnataka wellbeing offer ashwin naik manah wellness"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers through SHG leaders",
+          "fellowname": "Mabel Pinto",
+          "organization": "Deepalaya Social service Centre",
+          "contact": "9739065166 dhmdeepalaya@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " access to volunteers through shg leaders karnataka access to volunteers offer mabel pinto deepalaya social service centre"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation through frontline health staff",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " community mobilisation through frontline health staff karnataka access to communities offer dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " access to volunteers karnataka access to volunteers offer dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platform through staff",
+          "fellowname": "Mabel Pinto",
+          "organization": "Deepalaya Social service Centre",
+          "contact": "9739065166 dhmdeepalaya@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " helpline platform through staff karnataka helpline offer mabel pinto deepalaya social service centre"
+        },
+        {
+          "link": "",
+          "caption": "Access to Volunteers (youth)",
+          "fellowname": "Mabel Pinto",
+          "organization": "Deepalaya Social service Centre",
+          "contact": "9739065166 dhmdeepalaya@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " access to volunteers (youth) karnataka access to volunteers offer mabel pinto deepalaya social service centre"
+        },
+        {
+          "link": "",
+          "caption": "Hygiene kits and dry ration ",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " hygiene kits and dry ration  karnataka na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Healthcare centers ",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " healthcare centers  karnataka healthcare facilities offer dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Healthcare facilities (delivery anywhere)",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " healthcare facilities (delivery anywhere) karnataka doctors/hospitals offer ashwin naik manah wellness"
+        },
+        {
+          "link": "",
+          "caption": "PPE for frontline healthcare staff",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " ppe for frontline healthcare staff karnataka healthcare facilities request dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Partnership with helplines in food, employment",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " partnership with helplines in food, employment karnataka doctors/hospitals request ashwin naik manah wellness"
+        },
+        {
+          "link": "",
+          "caption": "Frontline volunteer support",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " frontline volunteer support karnataka helpline request ashwin naik manah wellness"
+        },
+        {
+          "link": "",
+          "caption": "Community Mobilisation",
+          "fellowname": "Ashwin Naik",
+          "organization": "Manah Wellness",
+          "contact": "ashwin.naik@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " community mobilisation karnataka wellbeing request ashwin naik manah wellness"
+        },
+        {
+          "link": "",
+          "caption": "Financial support",
+          "fellowname": "Mabel Pinto",
+          "organization": "Deepalaya Social service Centre",
+          "contact": "9739065166 dhmdeepalaya@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " financial support karnataka financial support request mabel pinto deepalaya social service centre"
+        },
+        {
+          "link": "",
+          "caption": "Helpline platforms",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " helpline platforms karnataka access to communities request dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Health education materials",
+          "fellowname": "Dr.Sudarshan Hanumanappa",
+          "organization": "Karuna Trust",
+          "contact": "karunatrustblr@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " health education materials karnataka access to volunteers request dr.sudarshan hanumanappa karuna trust"
+        },
+        {
+          "link": "",
+          "caption": "Information",
+          "fellowname": "Mabel Pinto",
+          "organization": "Deepalaya Social service Centre",
+          "contact": "9739065166 dhmdeepalaya@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " information karnataka helpline request mabel pinto deepalaya social service centre"
+        },
+        {
+          "link": "",
+          "caption": "Temporary quarantine facility",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " temporary quarantine facility karnataka na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Supporting distric administration with supplementing public health systems",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " supporting distric administration with supplementing public health systems karnataka na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Financial and essential services support to daily wage earners",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " financial and essential services support to daily wage earners karnataka na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Post rehabilation relief (water)",
+          "fellowname": "Biplabketan Paul",
+          "organization": "Bhungroo Vikas Pvt. Ltd.",
+          "contact": "biplab@naireetaservices.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " post rehabilation relief (water) karnataka post rehabilitation relief offer biplabketan paul bhungroo vikas pvt. ltd."
+        }
+      ],
+      "coordinates": {
+        "latitude": "15.3173",
+        "longitude": "75.7139"
       }
     },
     "Maharashtra": {
@@ -1744,73 +2272,73 @@
         },
         {
           "link": "",
-          "caption": "Helpline platform",
+          "caption": "Helpline platform (24/7, teleconsultation)",
           "fellowname": "Kumar Shailabh",
           "organization": "Uplift Mutuals",
           "contact": "krshailabh@upliftmutuals.org 9923115524",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " helpline platform maharashtra helpline offer kumar shailabh uplift mutuals"
+          "textsearch": " helpline platform (24/7, teleconsultation) maharashtra helpline offer kumar shailabh uplift mutuals"
         },
         {
           "link": "",
-          "caption": "Helpline platform",
+          "caption": "Helpline platform through trained counselors",
           "fellowname": "Priya Agrawal",
           "organization": "Antarang Foundation",
           "contact": "priya@antarangfoundation.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " helpline platform maharashtra helpline offer priya agrawal antarang foundation"
+          "textsearch": " helpline platform through trained counselors maharashtra helpline offer priya agrawal antarang foundation"
         },
         {
           "link": "",
-          "caption": "Insurance ",
+          "caption": "Health mutual insurance",
           "fellowname": "Kumar Shailabh",
           "organization": "Uplift Mutuals",
           "contact": "krshailabh@upliftmutuals.org 9923115524",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " insurance  maharashtra medical offer kumar shailabh uplift mutuals"
+          "textsearch": " health mutual insurance maharashtra medical offer kumar shailabh uplift mutuals"
         },
         {
           "link": "",
-          "caption": "Herbal Hand wash , Soap ",
+          "caption": "Sanitizing products",
           "fellowname": "Sanjeev Kumar ",
           "organization": "The Goat trust ",
           "contact": "thegoattrust@gmail.com ",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " herbal hand wash , soap  maharashtra sanitizing products offer sanjeev kumar  the goat trust "
+          "textsearch": " sanitizing products maharashtra sanitizing products offer sanjeev kumar  the goat trust "
         },
         {
           "link": "",
-          "caption": "Hygiene kits and dry ration for marginalised families, old age homes, and orphanages",
+          "caption": "Hygiene kits and dry ration ",
           "fellowname": "Manu Gupta",
           "organization": "SEEDS",
           "contact": "manu@seedsindia.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " hygiene kits and dry ration for marginalised families, old age homes, and orphanages maharashtra na offer manu gupta seeds"
+          "textsearch": " hygiene kits and dry ration  maharashtra na offer manu gupta seeds"
         },
         {
           "link": "",
-          "caption": "Immunity enhancer Goat milk + Moringa ",
+          "caption": "Immunity enhancing natural food products",
           "fellowname": "Sanjeev Kumar ",
           "organization": "The Goat trust ",
           "contact": "thegoattrust@gmail.com ",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " immunity enhancer goat milk + moringa  maharashtra food  offer sanjeev kumar  the goat trust "
+          "textsearch": " immunity enhancing natural food products maharashtra food  offer sanjeev kumar  the goat trust "
         },
         {
           "link": "",
-          "caption": "Other",
+          "caption": "Access to blockchain providers and video content translation",
           "fellowname": "Kumar Shailabh",
           "organization": "Uplift Mutuals",
           "contact": "krshailabh@upliftmutuals.org 9923115524",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " other maharashtra access to volunteers offer kumar shailabh uplift mutuals"
+          "textsearch": " access to blockchain providers and video content translation maharashtra access to volunteers offer kumar shailabh uplift mutuals"
         },
         {
           "link": "",
@@ -1824,33 +2352,33 @@
         },
         {
           "link": "",
-          "caption": "Medical (Delivery anywhere)",
+          "caption": "Healthcare facilities (delivery anywhere)",
           "fellowname": "Ashwin Naik",
           "organization": "Manah Wellness",
           "contact": "ashwin.naik@gmail.com",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " medical (delivery anywhere) maharashtra doctors/hospitals offer ashwin naik manah wellness"
+          "textsearch": " healthcare facilities (delivery anywhere) maharashtra doctors/hospitals offer ashwin naik manah wellness"
         },
         {
           "link": "",
-          "caption": "Access to Volunteers",
+          "caption": "PPE  ",
           "fellowname": "Priya Agrawal",
           "organization": "Antarang Foundation",
           "contact": "priya@antarangfoundation.org",
           "type": "offer",
           "Type": "Offer",
-          "textsearch": " access to volunteers maharashtra medical equipment offer priya agrawal antarang foundation"
+          "textsearch": " ppe   maharashtra medical equipment offer priya agrawal antarang foundation"
         },
         {
           "link": "",
-          "caption": "others",
+          "caption": "Partnership with helplines in food, employment",
           "fellowname": "Ashwin Naik",
           "organization": "Manah Wellness",
           "contact": "ashwin.naik@gmail.com",
           "type": "request",
           "Type": "Request",
-          "textsearch": " others maharashtra doctors/hospitals request ashwin naik manah wellness"
+          "textsearch": " partnership with helplines in food, employment maharashtra doctors/hospitals request ashwin naik manah wellness"
         },
         {
           "link": "",
@@ -1870,17 +2398,17 @@
           "contact": "priya@antarangfoundation.org",
           "type": "request",
           "Type": "Request",
-          "textsearch": " access to volunteers maharashtra access to communities request priya agrawal antarang foundation"
+          "textsearch": " access to volunteers maharashtra  request priya agrawal antarang foundation"
         },
         {
           "link": "",
-          "caption": "Access to Volunteers",
+          "caption": "Frontline volunteer support",
           "fellowname": "Ashwin Naik",
           "organization": "Manah Wellness",
           "contact": "ashwin.naik@gmail.com",
           "type": "request",
           "Type": "Request",
-          "textsearch": " access to volunteers maharashtra helpline request ashwin naik manah wellness"
+          "textsearch": " frontline volunteer support maharashtra helpline request ashwin naik manah wellness"
         },
         {
           "link": "",
@@ -1910,17 +2438,107 @@
           "contact": "priya@antarangfoundation.org",
           "type": "request",
           "Type": "Request",
-          "textsearch": " financial support maharashtra helpline request priya agrawal antarang foundation"
+          "textsearch": " financial support maharashtra  request priya agrawal antarang foundation"
         },
         {
           "link": "",
-          "caption": "Financial support",
-          "fellowname": "Kumar Shailabh",
-          "organization": "Uplift Mutuals",
-          "contact": "krshailabh@upliftmutuals.org 9923115524",
+          "caption": "Temporary quarantine facility",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " temporary quarantine facility maharashtra na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Supporting distric administration with supplementing public health systems",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " supporting distric administration with supplementing public health systems maharashtra na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Financial and essential services support to daily wage earners",
+          "fellowname": "Manu Gupta",
+          "organization": "SEEDS",
+          "contact": "manu@seedsindia.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " financial and essential services support to daily wage earners maharashtra na offer manu gupta seeds"
+        },
+        {
+          "link": "",
+          "caption": "Community mobilisation",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " community mobilisation maharashtra access to community offer mohd tarique koshish"
+        },
+        {
+          "link": "",
+          "caption": "Shelter and food for street population",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " shelter and food for street population maharashtra relief offer mohd tarique koshish"
+        },
+        {
+          "link": "",
+          "caption": "Leverage government facilities for relief",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " leverage government facilities for relief maharashtra relief offer mohd tarique koshish"
+        },
+        {
+          "link": "",
+          "caption": "Support for livelihood activities",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
           "type": "request",
           "Type": "Request",
-          "textsearch": " financial support maharashtra insurance request kumar shailabh uplift mutuals"
+          "textsearch": " support for livelihood activities maharashtra livelihood support request mohd tarique koshish"
+        },
+        {
+          "link": "",
+          "caption": "Mental health support",
+          "fellowname": "Mohd Tarique",
+          "organization": "Koshish",
+          "contact": "tarique.tiss@gmail.com",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " mental health support maharashtra wellbeing request mohd tarique koshish"
+        },
+        {
+          "link": "",
+          "caption": "Livelihood planning support (fisherfolk)",
+          "fellowname": "Neelkanth Mishra",
+          "organization": "Jaljeevika",
+          "contact": "neelkanth.mishra@jaljeevika.org",
+          "type": "request",
+          "Type": "Request",
+          "textsearch": " livelihood planning support (fisherfolk) maharashtra livelihood support request neelkanth mishra jaljeevika"
+        },
+        {
+          "link": "",
+          "caption": "Training support for fishery livelihood",
+          "fellowname": "Neelkanth Mishra",
+          "organization": "Jaljeevika",
+          "contact": "neelkanth.mishra@jaljeevika.org",
+          "type": "offer",
+          "Type": "Offer",
+          "textsearch": " training support for fishery livelihood maharashtra capacity building support offer neelkanth mishra jaljeevika"
         }
       ],
       "coordinates": {
@@ -1929,5 +2547,5 @@
       }
     }
   },
-  "totalBlocks": 176
+  "totalBlocks": 237
 }

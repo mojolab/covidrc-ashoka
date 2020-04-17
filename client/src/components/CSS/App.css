@@ -94,8 +94,16 @@
   align-items: center;
 }
 
-.offer {
+.corona {
   background-color: var(--accent-color-2);
+  opacity: 0.80;
+  color: var(--base-white-1);
+  align-items: center;
+  padding: 1px;
+}
+
+.offer {
+  background-color: var(--accent-color-3);
   opacity: 0.80;
   color: var(--base-white-1);
   align-items: center;
@@ -132,7 +140,8 @@
 
 
 .marker_txt_2 p{
-  flex-grow: 1;
+  flex-grow: 0;
+  padding: 10px;
 }
 
 

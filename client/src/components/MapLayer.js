@@ -53,7 +53,9 @@ export function MapLayer(props) {
         >
 
         {totalCities.map((city, index) => {
+                  console.log(totalCities)
             console.log(city)
+
             console.log(coronaData)
             return (
                 <Marker
@@ -69,17 +71,17 @@ export function MapLayer(props) {
                             style = {{
                                 width: `calc(1rem + 3 * ${String(coronaData[city].coronacount/1000)}rem)`,
                                 height: `calc(1rem + 3 * ${String(coronaData[city].coronacount/1000)}rem)`,
-                                opacity: `calc(0.05 + 0.5 * ${String(coronaData[city].coronacount/10000)})`,
+                                opacity: `calc(0.1 + 0.4 * ${String(coronaData[city].coronacount/10000)})`,
 
                                 lineHeight: `calc(1rem + 3 * ${String(coronaData[city].coronacount/1000)}rem)`
 
                             }}
                             initial = {{scale: 1}}
-                            animate= {{scale: 1.05}}
+                            animate= {{scale: 1.05, opacity:0.8}}
                             transition = {{
                                 yoyo: Infinity,
                                 ease: 'easeOut',
-                                duration: 0.5
+                                duration: 1.5
                             }}
                             ><p>{isZoomFriendly(coronaData[city].coronacount) && coronaData[city].coronacount}</p>
                         </motion.div>
@@ -104,16 +106,16 @@ export function MapLayer(props) {
                             <motion.div
                                 className="marker_txt"
                                 style = {{
-                                    width: `calc(1rem + 0.2 * ${String(videoData[city].blocks.length)}rem)`,
-                                    height: `calc(1rem + 0.2 * ${String(videoData[city].blocks.length)}rem)`,
-                                    lineHeight: `calc(1rem + 0.2 * ${String(videoData[city].blocks.length)}rem)`
+                                    width: `calc(.5rem + 0.2 * ${String(videoData[city].blocks.length)}rem)`,
+                                    height: `calc(.5rem + 0.2 * ${String(videoData[city].blocks.length)}rem)`,
+                                    lineHeight: `calc(.5rem + 0.2 * ${String(videoData[city].blocks.length)}rem)`
                                 }}
-                                initial = {{scale: 1}}
-                                animate= {{scale: 1.05}}
+                                initial = {{scale: .5}}
+                                animate= {{scale: .65, backgroundColor:"#264f18"}}
                                 transition = {{
                                     yoyo: Infinity,
                                     ease: 'easeOut',
-                                    duration: 0.5
+                                    duration: 3
                                 }}
                                 ><p>{isZoomFriendly(videoData[city].blocks.length) && videoData[city].blocks.length}</p>
                             </motion.div>
